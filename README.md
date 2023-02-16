@@ -1,4 +1,4 @@
-# Awesome RLHF (Reinforcement Learning with Human Feedback)
+# Awesome RLHF (RL with Human Feedback)
 
 This is a collection of research papers for **Reinforcement Learning with Human Feedback**.
 And the repository will be continuously updated to track the frontier of RLHF.
@@ -44,32 +44,24 @@ format:
 ```
 
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
-
 - [lm-human-preferences](https://github.com/openai/lm-human-preferences)
-
 - [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl)
- - Leandro von Werra, Younes Belkada, Lewis Tunstall, et al
- - Keyword: Train LM with RL, PPO, Transformer
- - Task: IMDB sentiment
-
+  - Leandro von Werra, Younes Belkada, Lewis Tunstall, et al
+  - Keyword: Train LM with RL, PPO, Transformer
+  - Task: IMDB sentiment
 - [Transformer Reinforcement Learning X (TRLX)](https://github.com/CarperAI/trlx)
-
 - [RL4LMs (A modular RL library to fine-tune language models to human preferences)](https://github.com/allenai/RL4LMs)
-
 - [HH-RLHF](https://github.com/anthropics/hh-rlhf)
-
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
-
 - [TextRL](https://github.com/voidful/TextRL)
-
 - [minRLHF](https://github.com/thomfoster/minRLHF)
 
 
 
 ## Blogs
-- [OpenAI][ChatGPT](https://openai.com/blog/chatgpt)
-- [Hugging Face][Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
-- [ZhiHu][通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [OpenAI] [ChatGPT:Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt)
+- [Hugging Face] [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
+- [ZhiHu] [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 
 
 ## Contributing
