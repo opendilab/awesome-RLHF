@@ -41,42 +41,42 @@ format:
 
 - [Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241) (NLPO)
   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi 
-  - Keyword: optimizing language generators with RL, Benchmark,  performant RL algorithm
+  - Keyword: Optimizing language generators with RL, Benchmark,  Performant RL algorithm
   - Code: [official](https://github.com/allenai/RL4LMs) 
   - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html),[NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog) 
 - [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
   - Leo Gao, John Schulman, Jacob Hilton
-  - Keyword: gold reward model train proxy reward model, dataset size, policy parameter size, BoN, PPO
+  - Keyword: Gold reward model train proxy reward model, Dataset size, Policy parameter size, BoN, PPO
   - Code: None
   - Dataset: None
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) (Sparrow)
   - Amelia Glaese, Nat McAleese, Maja Trębacz, et al.
-  - Keyword: information-seeking dialogue agent, break down the good dialogue into natural language rules , DPC, interact with the model to elicit violation of a specific rule(Adversarial Probing)
+  - Keyword: Information-seeking dialogue agent, Break down the good dialogue into natural language rules , DPC, Interact with the model to elicit violation of a specific rule(Adversarial Probing)
   - Code: None
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [WinoBias](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino), [BBQ](https://github.com/nyu-mll/BBQ)
 - [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
   - Deep Ganguli, Liane Lovitt, Jackson Kernion, et al.
-  - Keyword: Red team language model, investigate scaling behaviors, Read teaming Dataset
+  - Keyword: Red team language model, Investigate scaling behaviors, Read teaming Dataset
   - Code: [Official](https://github.com/anthropics/hh-rlhf)
   - Dataset: none
 - [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/abs/2208.02294)
   - Deborah Cohen, Moonkyung Ryu, Yinlam Chow, Orgad Keller, Ido Greenberg, Avinatan Hassidim, Michael Fink, Yossi Matias, Idan Szpektor, Craig Boutilier, Gal Elidan
-  - Keyword: real-time, open-ended dialogue system, pairs the succinct embedding of the conversation state by language models, CAQL,CQL, [BERT](https://github.com/google-research/bert)
+  - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL,CQL, [BERT](https://github.com/google-research/bert)
   - Code: None
   - Dataset: None
 - [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
   - Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
-  - Keyword: fine-tuning the language model on signals of what not to do, Decision Transformer, LM tuning with PPO
+  - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LM tuning with PPO
   - Code: [official](https://github.com/gximinglu/quark)
   - Dataset: [WRITINGPROMPTS](https://www.kaggle.com/datasets/ratthachat/writing-prompts), [SST-2](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english), [WIKITEXT-103](https://blog.salesforceairesearch.com/the-wikitext-long-term-dependency-language-modeling-dataset/)
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
   - Yuntao Bai, Andy Jones, Kamal Ndousse, et al.
-  - Keyword: harmless assistants, online mode, robustness of RLHF training, OOD detection.
+  - Keyword: Harmless assistants, Online mode, Robustness of RLHF training, OOD detection.
   - Code: [Official](https://github.com/anthropics/hh-rlhf)
   - Dataset: [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [OpenBookQA](https://allenai.org/data/open-book-qa), [LAMBADA](https://zenodo.org/record/2630551#.Y_KLJ-yZNhF), [HumanEval](https://github.com/openai/human-eval), [MMLU](https://github.com/hendrycks/test), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Teaching language models to support answers with verified quotes](https://arxiv.org/abs/2203.11147) (GopherCite)
   - Jacob Menick, Maja Trebacz, Vladimir Mikulik, John Aslanides, Francis Song, Martin Chadwick, Mia Glaese, Susannah Young, Lucy Campbell-Gillingham, Geoffrey Irving, Nat McAleese
-  - Keyword:generate answers which citing specific evidence, abstain from answering when unsure
+  - Keyword: Generate answers which citing specific evidence, Abstain from answering when unsure
   - Code: None
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
