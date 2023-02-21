@@ -1,6 +1,6 @@
-# Contributing to Awesome Decision Transformer
+# Contributing to Awesome RLHF
 
-Anyone interested in Decision Transformer is welcomed to contribute to this repo:
+Anyone interested in Reinforcement Learning with Human Feedback is welcomed to contribute to this repo:
 
 - You can add the classical or latest publications / tutorials directly to `README.md` and `your_create.md`.
 

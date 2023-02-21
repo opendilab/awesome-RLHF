@@ -1,6 +1,6 @@
 # Awesome RLHF (RL with Human Feedback)
 
-This is a collection of research papers for **Reinforcement Learning with Human Feedback**.
+This is a collection of research papers for **Reinforcement Learning with Human Feedback** (RLHF).
 And the repository will be continuously updated to track the frontier of RLHF.
 
 Welcome to follow and star!
@@ -17,7 +17,7 @@ Welcome to follow and star!
 
 The idea of RLHF is to use methods from reinforcement learning to directly optimize a language model with human feedback. RLHF has enabled language models to begin to align a model trained on a general corpus of text data to that of complex human values.
 
-- RLHF for Large Language Model
+- RLHF for Large Language Model (LLM)
 
 ![image info](./overview_chatgpt.png)
 
@@ -60,7 +60,7 @@ format:
   - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, [BERT](https://github.com/google-research/bert)
 - [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
   - Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
-  - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LM tuning with PPO
+  - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LLM tuning with PPO
   - Code: [official](https://github.com/gximinglu/quark)
   - Dataset: [WRITINGPROMPTS](https://www.kaggle.com/datasets/ratthachat/writing-prompts), [SST-2](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english), [WIKITEXT-103](https://blog.salesforceairesearch.com/the-wikitext-long-term-dependency-language-modeling-dataset/)
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
@@ -153,39 +153,39 @@ format:
   - Dataset: [TruthfulQA](https://github.com/sylinrl/TruthfulQA) [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
 - [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl)
   - Leandro von Werra, Younes Belkada, Lewis Tunstall, et al.
-  - Keyword: Train LM with RL, PPO, Transformer
-  - Task: IMDB sentiment
+  - Keyword: Train LLM with RL, PPO, Transformer
+  - Task: [IMDB sentiment](https://www.imdb.com/interfaces/)
 - [Transformer Reinforcement Learning X (TRLX)](https://github.com/CarperAI/trlx)
-  - Jonathan Tow, Leandro von Werra, reciprocated, et al.
-  - Keyword: Distributed training framework, T5-based language models, Train LM with RL, PPO, ILQL
-  - Task: fine tuning LM with RL using provided reward function or reward-labeled dataset
+  - Jonathan Tow, Leandro von Werra, et al.
+  - Keyword: Distributed training framework, T5-based language models, Train LLM with RL, PPO, ILQL
+  - Task: Fine tuning LLM with RL using provided reward function or reward-labeled dataset
 - [RL4LMs (A modular RL library to fine-tune language models to human preferences)](https://github.com/allenai/RL4LMs)
   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi 
   - Keyword: Optimizing language generators with RL, Benchmark,  Performant RL algorithm 
-  - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html),[NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog) 
+  - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html), [NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog) 
 - [HH-RLHF](https://github.com/anthropics/hh-rlhf)
   - Ben Mann, Deep Ganguli
   - Keyword: Human preference dataset, Red teaming data
-  - Task: open Sorce Dataset for Human preference data about helpfulness and harmlessness and Red teaming data
+  - Task: Open-source dataset for human preference data about helpfulness and harmlessness
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Phil Wang
   - Keyword: LaMDA, Attention-mechanism
   - Task: Open-source pre-training implementation of Google's LaMDA research paper in PyTorch
 - [TextRL](https://github.com/voidful/TextRL)
   - Eric Lam
-  - Keyword: huggingface's transformer, 
+  - Keyword: huggingface's transformer
   - Task: Text generation 
   - Env: PFRL, gym
 - [minRLHF](https://github.com/thomfoster/minRLHF)
-  - thomfoster
+  - Thomfoster
   - Keyword: PPO, Minimal library
   - Task: educational purposes
 
 
 ## Blogs
-- [OpenAI] [ChatGPT:Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt)
+- [OpenAI] [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt)
 - [Hugging Face] [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
-- [ZhiHu] [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [ZhiHu] [通向AGI之路：大型语言模型 (LLM) 技术精要](https://zhuanlan.zhihu.com/p/597586623)
 - [W&B Fully Connected][ Understanding Reinforcement Learning from Human Feedback (RLHF)](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
 - [Deepmind] [Learning through human feedback](https://www.deepmind.com/blog/learning-through-human-feedback)
 
