@@ -98,7 +98,7 @@ format:
   - Dataset: [Booksum](https://github.com/salesforce/booksum), [NarrativeQA](https://github.com/deepmind/narrativeqa)
 - [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2106.08942)
   - Samuel Kiegeland, Julia Kreutzer
-  - Keyword:  the success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
+  - Keyword:  The success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
   - Code: [official](https://github.com/samuki/reinforce-joey)
   - Dataset: [WMT15](https://www.statmt.org/wmt15/index.html), [IWSLT14](https://sites.google.com/site/iwsltevaluation2014/mt-track)
 
@@ -106,13 +106,40 @@ format:
 ### 2020 and before
 
 - [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+  - Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
+  - Keyword: Care about summary quality, Training loss affect the model behavior, Reward model generalizes to new datasets
+  - Code: [official](https://github.com/openai/summarize-from-feedback)
+  - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
+  - Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul Christiano, Geoffrey Irving
+  - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical  descriptive
+  - Code: [official](https://github.com/openai/lm-human-preferences)
+  -  Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
+  - Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg
+  - Keyword: Agent alignment problem, Learn reward from interaction, Optimize reward with RL,  Recursive reward modeling 
+  - Code: [official](https://github.com/rddy/ReQueST)
+  - Env: Atari
 - [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521)
+  - Borja Ibarz, Jan Leike, Tobias Pohlen, Geoffrey Irving, Shane Legg, Dario Amodei
+  - Keyword: Expert demonstration trajectory preferences reward hacking problem, Noise in human label
+  - Code: [official](https://github.com/rddy/ReQueST)
+  - Env: Env: Atari
 - [Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces](https://arxiv.org/abs/1709.10163)
+  - Garrett Warnell, Nicholas Waytowich, Vernon Lawhern, Peter Stone
+  - Keyword:  High dimension state , Leverage the input of Human trainer 
+  - Code: [third party](https://github.com/bharadwaj1098/Tamer)
+  - Env: Atari bowling
 - [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
+  - Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei
+  - Keyword: Explore goal defined in human preferences between pairs of trajectories segmentation, Learn more complex thing than human feedback 
+  - Code: [official](https://github.com/mrahtz/learning-from-human-preferences)
+  - Env: Atari mujoco
 - [Interactive Learning from Policy-Dependent Human Feedback](https://arxiv.org/abs/1701.06049)
-
+  - James MacGlashan, Mark K Ho, Robert Loftin, Bei Peng, Guan Wang, David Roberts, Matthew E. Taylor, Michael L. Littman
+  - Keyword: Decision is influenced by current policy rather than human feedback, Learn from policy dependent feedback that converges to a local optimal
+  - Code: None
+  - Dataset: None
 ## Codebases
 ```
 format:
