@@ -87,8 +87,20 @@ format:
 
 ### 2021
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
+  - Reiichiro Nakano, Jacob Hilton, Suchir Balaji, et al.
+  - Keyword: Model search the web and provide reference， Imitation learning， BC, long form question
+  - Code: None
+  - Dataset: [ELI5](https://facebookresearch.github.io/ELI5/)，[TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
+  - Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
+  - Keyword:  Model trained on small task to assist human evaluate broader task, BC
+  - Code: None
+  - Dataset: [Booksum](https://github.com/salesforce/booksum), [NarrativeQA](https://github.com/deepmind/narrativeqa)
 - [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2106.08942)
+  - Samuel Kiegeland, Julia Kreutzer
+  - Keyword:  the success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
+  - Code: [official](https://github.com/samuki/reinforce-joey)
+  - Dataset: [WMT15](https://www.statmt.org/wmt15/index.html), [IWSLT14](https://sites.google.com/site/iwsltevaluation2014/mt-track)
 
 
 ### 2020 and before
@@ -130,6 +142,10 @@ format:
 - [OpenAI] [ChatGPT:Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt)
 - [Hugging Face] [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [ZhiHu] [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
+- [W&B Fully Connected][ Understanding Reinforcement Learning from Human Feedback (RLHF)](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
+- [Deepmind][Learning through human feedback](https://www.deepmind.com/blog/learning-through-human-feedback)
+
+
 
 
 ## Contributing
