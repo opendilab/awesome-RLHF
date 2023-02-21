@@ -47,23 +47,17 @@ format:
 - [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
   - Leo Gao, John Schulman, Jacob Hilton
   - Keyword: Gold reward model train proxy reward model, Dataset size, Policy parameter size, BoN, PPO
-  - Code: None
-  - Dataset: None
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) (Sparrow)
   - Amelia Glaese, Nat McAleese, Maja Trębacz, et al.
   - Keyword: Information-seeking dialogue agent, Break down the good dialogue into natural language rules , DPC, Interact with the model to elicit violation of a specific rule(Adversarial Probing)
-  - Code: None
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [WinoBias](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino), [BBQ](https://github.com/nyu-mll/BBQ)
 - [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
   - Deep Ganguli, Liane Lovitt, Jackson Kernion, et al.
   - Keyword: Red team language model, Investigate scaling behaviors, Read teaming Dataset
-  - Code: [Official](https://github.com/anthropics/hh-rlhf)
-  - Dataset: none
+  - Code: [official](https://github.com/anthropics/hh-rlhf)
 - [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/abs/2208.02294)
   - Deborah Cohen, Moonkyung Ryu, Yinlam Chow, Orgad Keller, Ido Greenberg, Avinatan Hassidim, Michael Fink, Yossi Matias, Idan Szpektor, Craig Boutilier, Gal Elidan
   - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL,CQL, [BERT](https://github.com/google-research/bert)
-  - Code: None
-  - Dataset: None
 - [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
   - Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
   - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LM tuning with PPO
@@ -72,12 +66,11 @@ format:
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
   - Yuntao Bai, Andy Jones, Kamal Ndousse, et al.
   - Keyword: Harmless assistants, Online mode, Robustness of RLHF training, OOD detection.
-  - Code: [Official](https://github.com/anthropics/hh-rlhf)
+  - Code: [official](https://github.com/anthropics/hh-rlhf)
   - Dataset: [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [OpenBookQA](https://allenai.org/data/open-book-qa), [LAMBADA](https://zenodo.org/record/2630551#.Y_KLJ-yZNhF), [HumanEval](https://github.com/openai/human-eval), [MMLU](https://github.com/hendrycks/test), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Teaching language models to support answers with verified quotes](https://arxiv.org/abs/2203.11147) (GopherCite)
   - Jacob Menick, Maja Trebacz, Vladimir Mikulik, John Aslanides, Francis Song, Martin Chadwick, Mia Glaese, Susannah Young, Lucy Campbell-Gillingham, Geoffrey Irving, Nat McAleese
   - Keyword: Generate answers which citing specific evidence, Abstain from answering when unsure
-  - Code: None
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
   - Long Ouyang, Jeff Wu, Xu Jiang, et al.
@@ -89,12 +82,10 @@ format:
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
   - Reiichiro Nakano, Jacob Hilton, Suchir Balaji, et al.
   - Keyword: Model search the web and provide reference， Imitation learning， BC, long form question
-  - Code: None
   - Dataset: [ELI5](https://facebookresearch.github.io/ELI5/)，[TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
   - Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
   - Keyword:  Model trained on small task to assist human evaluate broader task, BC
-  - Code: None
   - Dataset: [Booksum](https://github.com/salesforce/booksum), [NarrativeQA](https://github.com/deepmind/narrativeqa)
 - [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2106.08942)
   - Samuel Kiegeland, Julia Kreutzer
@@ -134,12 +125,11 @@ format:
   - Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei
   - Keyword: Explore goal defined in human preferences between pairs of trajectories segmentation, Learn more complex thing than human feedback 
   - Code: [official](https://github.com/mrahtz/learning-from-human-preferences)
-  - Env: Atari mujoco
+  - Env: Atari MuJoCo
 - [Interactive Learning from Policy-Dependent Human Feedback](https://arxiv.org/abs/1701.06049)
   - James MacGlashan, Mark K Ho, Robert Loftin, Bei Peng, Guan Wang, David Roberts, Matthew E. Taylor, Michael L. Littman
   - Keyword: Decision is influenced by current policy rather than human feedback, Learn from policy dependent feedback that converges to a local optimal
-  - Code: None
-  - Dataset: None
+  
 ## Codebases
 ```
 format:
@@ -197,7 +187,7 @@ format:
 - [Hugging Face] [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [ZhiHu] [通向AGI之路：大型语言模型（LLM）技术精要](https://zhuanlan.zhihu.com/p/597586623)
 - [W&B Fully Connected][ Understanding Reinforcement Learning from Human Feedback (RLHF)](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
-- [Deepmind][Learning through human feedback](https://www.deepmind.com/blog/learning-through-human-feedback)
+- [Deepmind] [Learning through human feedback](https://www.deepmind.com/blog/learning-through-human-feedback)
 
 
 
