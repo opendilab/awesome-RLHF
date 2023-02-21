@@ -167,7 +167,7 @@ format:
   - Task: IMDB sentiment
 - [Transformer Reinforcement Learning X (TRLX)](https://github.com/CarperAI/trlx)
   - Jonathan Tow, Leandro von Werra, reciprocated, et al.
-  - Keyword: distributed training framework, T5-based language models, Train LM with RL, PPO, ILQL
+  - Keyword: Distributed training framework, T5-based language models, Train LM with RL, PPO, ILQL
   - Task: fine tuning LM with RL using provided reward function or reward-labeled dataset
 - [RL4LMs (A modular RL library to fine-tune language models to human preferences)](https://github.com/allenai/RL4LMs)
   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi 
@@ -179,7 +179,7 @@ format:
   - Task: open Sorce Dataset for Human preference data about helpfulness and harmlessness and Red teaming data
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Phil Wang
-  - Keyword: LaMDA, attention-mechanism
+  - Keyword: LaMDA, Attention-mechanism
   - Task: Open-source pre-training implementation of Google's LaMDA research paper in PyTorch
 - [TextRL](https://github.com/voidful/TextRL)
   - Eric Lam
@@ -188,7 +188,7 @@ format:
   - Env: PFRL, gym
 - [minRLHF](https://github.com/thomfoster/minRLHF)
   - thomfoster
-  - Keyword; PPO, minimal library
+  - Keyword: PPO, Minimal library
   - Task: educational purposes
 
 
