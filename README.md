@@ -49,7 +49,7 @@ format:
   - Keyword: Gold reward model train proxy reward model, Dataset size, Policy parameter size, BoN, PPO
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) (Sparrow)
   - Amelia Glaese, Nat McAleese, Maja Trębacz, et al.
-  - Keyword: Information-seeking dialogue agent, Break down the good dialogue into natural language rules , DPC, Interact with the model to elicit violation of a specific rule(Adversarial Probing)
+  - Keyword: Information-seeking dialogue agent, Break down the good dialogue into natural language rules, DPC, Interact with the model to elicit violation of a specific rule (Adversarial Probing)
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [WinoBias](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino), [BBQ](https://github.com/nyu-mll/BBQ)
 - [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
   - Deep Ganguli, Liane Lovitt, Jackson Kernion, et al.
@@ -57,7 +57,7 @@ format:
   - Code: [official](https://github.com/anthropics/hh-rlhf)
 - [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/abs/2208.02294)
   - Deborah Cohen, Moonkyung Ryu, Yinlam Chow, Orgad Keller, Ido Greenberg, Avinatan Hassidim, Michael Fink, Yossi Matias, Idan Szpektor, Craig Boutilier, Gal Elidan
-  - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL,CQL, [BERT](https://github.com/google-research/bert)
+  - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, [BERT](https://github.com/google-research/bert)
 - [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
   - Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
   - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LM tuning with PPO
@@ -76,13 +76,13 @@ format:
   - Long Ouyang, Jeff Wu, Xu Jiang, et al.
   - Keyword: Large Language Model, Align Language Model with Human Intent
   - Code: [official](https://github.com/openai/following-instructions-human-feedback)
-  - Dataset: [TruthfulQA](https://github.com/sylinrl/TruthfulQA) [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
+  - Dataset: [TruthfulQA](https://github.com/sylinrl/TruthfulQA), [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
 
 ### 2021
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
   - Reiichiro Nakano, Jacob Hilton, Suchir Balaji, et al.
   - Keyword: Model search the web and provide reference， Imitation learning， BC, long form question
-  - Dataset: [ELI5](https://facebookresearch.github.io/ELI5/)，[TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+  - Dataset: [ELI5](https://facebookresearch.github.io/ELI5/), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 - [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
   - Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
   - Keyword:  Model trained on small task to assist human evaluate broader task, BC
@@ -103,12 +103,12 @@ format:
   - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
   - Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul Christiano, Geoffrey Irving
-  - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical  descriptive
+  - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical descriptive
   - Code: [official](https://github.com/openai/lm-human-preferences)
   - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
   - Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg
-  - Keyword: Agent alignment problem, Learn reward from interaction, Optimize reward with RL,  Recursive reward modeling 
+  - Keyword: Agent alignment problem, Learn reward from interaction, Optimize reward with RL, Recursive reward modeling 
   - Code: [official](https://github.com/rddy/ReQueST)
   - Env: Atari
 - [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521)
@@ -118,14 +118,14 @@ format:
   - Env: Atari
 - [Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces](https://arxiv.org/abs/1709.10163)
   - Garrett Warnell, Nicholas Waytowich, Vernon Lawhern, Peter Stone
-  - Keyword:  High dimension state , Leverage the input of Human trainer 
+  - Keyword:  High dimension state, Leverage the input of Human trainer 
   - Code: [third party](https://github.com/bharadwaj1098/Tamer)
-  - Env: Atari bowling
+  - Env: Atari
 - [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
   - Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei
   - Keyword: Explore goal defined in human preferences between pairs of trajectories segmentation, Learn more complex thing than human feedback 
   - Code: [official](https://github.com/mrahtz/learning-from-human-preferences)
-  - Env: Atari MuJoCo
+  - Env: Atari, MuJoCo
 - [Interactive Learning from Policy-Dependent Human Feedback](https://arxiv.org/abs/1701.06049)
   - James MacGlashan, Mark K Ho, Robert Loftin, Bei Peng, Guan Wang, David Roberts, Matthew E. Taylor, Michael L. Littman
   - Keyword: Decision is influenced by current policy rather than human feedback, Learn from policy dependent feedback that converges to a local optimal
