@@ -124,7 +124,7 @@ format:
   - Borja Ibarz, Jan Leike, Tobias Pohlen, Geoffrey Irving, Shane Legg, Dario Amodei
   - Keyword: Expert demonstration trajectory preferences reward hacking problem, Noise in human label
   - Code: [official](https://github.com/rddy/ReQueST)
-  - Env: Env: Atari
+  - Env: Atari
 - [Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces](https://arxiv.org/abs/1709.10163)
   - Garrett Warnell, Nicholas Waytowich, Vernon Lawhern, Peter Stone
   - Keyword:  High dimension state , Leverage the input of Human trainer 
