@@ -114,7 +114,7 @@ format:
   - Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul Christiano, Geoffrey Irving
   - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical  descriptive
   - Code: [official](https://github.com/openai/lm-human-preferences)
-  -  Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
+  - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
   - Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg
   - Keyword: Agent alignment problem, Learn reward from interaction, Optimize reward with RL,  Recursive reward modeling 
@@ -150,19 +150,46 @@ format:
 ```
 
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+  - Phil Wang, Yachine Zahidi, Ikko Eltociear Ashimine, Eric Alcaide
+  - Keyword: Transformers, PaLM architecture
+  - Dataset: [enwik8](http://prize.hutter1.net/)
 - [lm-human-preferences](https://github.com/openai/lm-human-preferences)
+  - Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul Christiano, Geoffrey Irving
+  - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical  descriptive
+  - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
 - [following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback)
+  - Long Ouyang, Jeff Wu, Xu Jiang, et al.
+  - Keyword: Large Language Model, Align Language Model with Human Intent
+  - Dataset: [TruthfulQA](https://github.com/sylinrl/TruthfulQA) [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
 - [Transformer Reinforcement Learning (TRL)](https://github.com/lvwerra/trl)
   - Leandro von Werra, Younes Belkada, Lewis Tunstall, et al.
   - Keyword: Train LM with RL, PPO, Transformer
   - Task: IMDB sentiment
 - [Transformer Reinforcement Learning X (TRLX)](https://github.com/CarperAI/trlx)
+  - Jonathan Tow, Leandro von Werra, reciprocated, et al.
+  - Keyword: distributed training framework, T5-based language models, Train LM with RL, PPO, ILQL
+  - Task: fine tuning LM with RL using provided reward function or reward-labeled dataset
 - [RL4LMs (A modular RL library to fine-tune language models to human preferences)](https://github.com/allenai/RL4LMs)
+  - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi 
+  - Keyword: Optimizing language generators with RL, Benchmark,  Performant RL algorithm 
+  - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html),[NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog) 
 - [HH-RLHF](https://github.com/anthropics/hh-rlhf)
+  - Ben Mann, Deep Ganguli
+  - Keyword: Human preference dataset, Red teaming data
+  - Task: open Sorce Dataset for Human preference data about helpfulness and harmlessness and Red teaming data
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
+  - Phil Wang
+  - Keyword: LaMDA, attention-mechanism
+  - Task: Open-source pre-training implementation of Google's LaMDA research paper in PyTorch
 - [TextRL](https://github.com/voidful/TextRL)
+  - Eric Lam
+  - Keyword: huggingface's transformer, 
+  - Task: Text generation 
+  - Env: PFRL, gym
 - [minRLHF](https://github.com/thomfoster/minRLHF)
-
+  - thomfoster
+  - Keyword; PPO, minimal library
+  - Task: educational purposes
 
 
 ## Blogs
