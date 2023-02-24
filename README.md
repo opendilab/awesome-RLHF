@@ -215,8 +215,8 @@ format:
   - Task: educational purposes
 - [Stanford Human Preferences Dataset(SHP)](https://huggingface.co/datasets/stanfordnlp/SHP)
   - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
-  - Keyword:  naturally occurring and human-written dataset,18 different subject areas
-  - Task: ntended to be used for training RLHF reward models 
+  - Keyword: Naturally occurring and human-written dataset,18 different subject areas
+  - Task: Intended to be used for training RLHF reward models 
 
 
 ## Blogs
