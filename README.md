@@ -198,7 +198,7 @@ format:
   - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html), [NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog)
 - [HH-RLHF](https://github.com/anthropics/hh-rlhf)
   - Ben Mann, Deep Ganguli
-  - Keyword: Human preference dataset, Red teaming data
+  - Keyword: Human preference dataset, Red teaming data, machine-written
   - Task: Open-source dataset for human preference data about helpfulness and harmlessness
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Phil Wang
@@ -213,6 +213,10 @@ format:
   - Thomfoster
   - Keyword: PPO, Minimal library
   - Task: educational purposes
+- [Stanford Human Preferences Dataset(SHP)](https://huggingface.co/datasets/stanfordnlp/SHP)
+  - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
+  - Keyword:  naturally occurring and human-written dataset,18 different subject areas
+  - Task: ntended to be used for training RLHF reward models 
 
 
 ## Blogs
