@@ -106,6 +106,15 @@ format:
   - Keyword: Large Language Model, Align Language Model with Human Intent
   - Code: [official](https://github.com/openai/following-instructions-human-feedback)
   - Dataset: [TruthfulQA](https://github.com/sylinrl/TruthfulQA), [RealToxicityPrompts](https://allenai.org/data/real-toxicity-prompts)
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073.pdf)
+  - Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, et al.
+  - Keyword: RL from AI feedback(RLAIF), Training a harmless AI assistant through selfimprovement, Chain-of-thought style, Control AI behavior more precisely
+  - Code: [official](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)
+- [Discovering Language Model Behaviors with Model-Written Evaluations](https://arxiv.org/abs/2212.09251)
+  - Ethan Perez, Sam Ringer, Kamilė Lukošiūtė, Karina Nguyen, Edwin Chen, et al.
+  - Keyword: Automatically generate evaluations with LMs, More RLHF makes LMs worse, LM-written evaluations are highquality
+  - Code: [official](https://github.com/anthropics/evals)
+  - Dataset: [BBQ](https://github.com/nyu-mll/BBQ), [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
 
 ### 2021
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
@@ -121,7 +130,6 @@ format:
   - Keyword:  The success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
   - Code: [official](https://github.com/samuki/reinforce-joey)
   - Dataset: [WMT15](https://www.statmt.org/wmt15/index.html), [IWSLT14](https://sites.google.com/site/iwsltevaluation2014/mt-track)
-
 
 ### 2020 and before
 
@@ -194,7 +202,7 @@ format:
   - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html), [NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog)
 - [HH-RLHF](https://github.com/anthropics/hh-rlhf)
   - Ben Mann, Deep Ganguli
-  - Keyword: Human preference dataset, Red teaming data
+  - Keyword: Human preference dataset, Red teaming data, machine-written
   - Task: Open-source dataset for human preference data about helpfulness and harmlessness
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Phil Wang
@@ -209,6 +217,10 @@ format:
   - Thomfoster
   - Keyword: PPO, Minimal library
   - Task: educational purposes
+- [Stanford Human Preferences Dataset(SHP)](https://huggingface.co/datasets/stanfordnlp/SHP)
+  - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
+  - Keyword: Naturally occurring and human-written dataset,18 different subject areas
+  - Task: Intended to be used for training RLHF reward models 
 
 
 ## Blogs
