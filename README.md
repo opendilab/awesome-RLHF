@@ -66,6 +66,16 @@ format:
   - experiment environments and datasets
 ```
 
+### 2023
+- [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582) (PHF)
+  - Tomasz Korbak, Kejian Shi, Angelica Chen, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Samuel R. Bowman, Ethan Perez
+  - Keyword: pretraining, offline RL, decision transformer
+  - Code: [official](https://github.com/tomekkorbak/pretraining-with-human-feedback)
+
+- [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215) (f-DPG)
+  - Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Nahyeon Ryu, Marc Dymetman
+  - Keyword: f-divergence, RL with KL penalties
+
 ### 2022
 
 - [Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241) (NLPO)
