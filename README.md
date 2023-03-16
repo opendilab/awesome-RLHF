@@ -78,7 +78,7 @@ format:
   - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, expanding the pool of available data by viewing human-in-the-loop RL
   - Code: [official](https://github.com/jhejna/few-shot-preference-rl)
 
-- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models]()
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)
   - Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
   - Keyword: Visual Foundation Models, Visual ChatGPT 
   - Code: [official](https://github.com/microsoft/visual-chatgpt)
