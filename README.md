@@ -141,6 +141,10 @@ format:
   - Keyword: Automatically generate evaluations with LMs, More RLHF makes LMs worse, LM-written evaluations are highquality
   - Code: [official](https://github.com/anthropics/evals)
   - Dataset: [BBQ](https://github.com/nyu-mll/BBQ), [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
+- [Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning](https://arxiv.org/abs/2205.15367)
+  - Joseph Early, Tom Bewley, Christine Evers, Sarvapali Ramchurn
+  - Keyword: Reward Modelling (RLHF), Non-Markovian, Multiple Instance Learning, Interpretability
+  - Code: [official](https://github.com/JAEarly/MIL-for-Non-Markovian-Reward-Modelling)
 
 ### 2021
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
