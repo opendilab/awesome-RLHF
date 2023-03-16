@@ -67,6 +67,22 @@ format:
 ```
 
 ### 2023
+- [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+  - OpenAI
+  - Keyword: a large-scale, multimodal model, Transformerbased model, fine-tuned used RLHF
+  - Code: [official](https://github.com/openai/evals)
+  - Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval), [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
+
+- [Few-shot Preference Learning for Human-in-the-Loop RL](https://openreview.net/pdf?id=IKC5TfXLuW0)
+  - Joey Hejna, Dorsa Sadigh
+  - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, expanding the pool of available data by viewing human-in-the-loop RL
+  - Code: [official](https://github.com/jhejna/few-shot-preference-rl)
+
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)
+  - Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
+  - Keyword: Visual Foundation Models, Visual ChatGPT 
+  - Code: [official](https://github.com/microsoft/visual-chatgpt)
+
 - [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582) (PHF)
   - Tomasz Korbak, Kejian Shi, Angelica Chen, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Samuel R. Bowman, Ethan Perez
   - Keyword: pretraining, offline RL, decision transformer
