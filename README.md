@@ -69,13 +69,13 @@ format:
 ### 2023
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
   - OpenAI
-  - Keyword: a large-scale, multimodal model, Transformerbased model, fine-tuned used RLHF
+  - Keyword: A large-scale, multimodal model, Transformerbased model, Fine-tuned used RLHF
   - Code: [official](https://github.com/openai/evals)
   - Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval), [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 
 - [Few-shot Preference Learning for Human-in-the-Loop RL](https://openreview.net/pdf?id=IKC5TfXLuW0)
   - Joey Hejna, Dorsa Sadigh
-  - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, expanding the pool of available data by viewing human-in-the-loop RL
+  - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, Expanding the pool of available data by viewing human-in-the-loop RL
   - Code: [official](https://github.com/jhejna/few-shot-preference-rl)
 
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)
@@ -85,7 +85,7 @@ format:
 
 - [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582) (PHF)
   - Tomasz Korbak, Kejian Shi, Angelica Chen, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Samuel R. Bowman, Ethan Perez
-  - Keyword: pretraining, offline RL, decision transformer
+  - Keyword: Pretraining, offline RL, Decision transformer
   - Code: [official](https://github.com/tomekkorbak/pretraining-with-human-feedback)
 
 - [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215) (f-DPG)
@@ -247,6 +247,17 @@ format:
   - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
   - Keyword: Naturally occurring and human-written dataset,18 different subject areas
   - Task: Intended to be used for training RLHF reward models 
+- [PromptSource](https://github.com/bigscience-workshop/promptsource)
+  - Stephen H. Bach, Victor Sanh, Zheng-Xin Yong et al.
+  - Keyword: Prompted English datasets,  Mapping a data example into natural language
+  - Task:  Toolkit for creating, Sharing and using natural language prompts
+- [Structured Knowledge Grounding(SKG) Resources Collections](https://unifiedskg.com/)
+  - Tianbao Xie, Chen Henry Wu, Peng Shi et al.
+  - Keyword: Structured Knowledge Grounding
+  - Task:  Collection of datasets are related to structured knowledge grounding
+- [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
+  - Longpre Shayne, Hou Le, Vu Tu et al.
+  - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions
 
 
 ## Blogs
