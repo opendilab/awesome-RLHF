@@ -73,6 +73,11 @@ format:
   - Code: [official](https://github.com/openai/evals)
   - Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval), [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 
+- [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420)
+  - Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li
+  - Keyword: Diffusion Model, Text-to-Image, Aesthetic
+  - Code: [official](https://github.com/tgxs002/align_sd)
+
 - [Few-shot Preference Learning for Human-in-the-Loop RL](https://openreview.net/pdf?id=IKC5TfXLuW0)
   - Joey Hejna, Dorsa Sadigh
   - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, Expanding the pool of available data by viewing human-in-the-loop RL
