@@ -73,15 +73,15 @@ format:
   - Code: [official](https://github.com/openai/evals)
   - Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval), [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 
-- [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420)
-  - Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li
-  - Keyword: Diffusion Model, Text-to-Image, Aesthetic
-  - Code: [official](https://github.com/tgxs002/align_sd)
-
 - [Few-shot Preference Learning for Human-in-the-Loop RL](https://openreview.net/pdf?id=IKC5TfXLuW0)
   - Joey Hejna, Dorsa Sadigh
   - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, Expanding the pool of available data by viewing human-in-the-loop RL
   - Code: [official](https://github.com/jhejna/few-shot-preference-rl)
+
+- [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420)
+  - Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li
+  - Keyword: Diffusion Model, Text-to-Image, Aesthetic
+  - Code: [official](https://github.com/tgxs002/align_sd)
 
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)
   - Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
@@ -276,6 +276,8 @@ format:
 - [ZhiHu] [大语言模型的涌现能力：现象与解释](https://zhuanlan.zhihu.com/p/621438653)
 - [W&B Fully Connected][ Understanding Reinforcement Learning from Human Feedback (RLHF)](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
 - [Deepmind] [Learning through human feedback](https://www.deepmind.com/blog/learning-through-human-feedback)
+- [Notion] [深入理解语言模型的突现能力](https://yaofu.notion.site/514f4e63918749398a1a8a4c660e0d5b)
+- [Notion] [拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756#cf00f4e11d974187956122ce7d534386)
 
 
 
