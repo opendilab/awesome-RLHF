@@ -73,6 +73,11 @@ format:
   - Code: [official](https://github.com/openai/evals)
   - Dataset: [DROP](https://allenai.org/data/drop), [WinoGrande](https://winogrande.allenai.org/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [HumanEval](https://github.com/openai/human-eval), [GSM8K](https://paperswithcode.com/dataset/gsm8k), [MMLU](https://paperswithcode.com/dataset/mmlu), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
 
+- [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/pdf/2304.05302v1.pdf)
+  - Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, Fei Huang
+  - Keyword: New paradigm for RLHF
+  - Code: [official](https://github.com/GanjinZero/RRHF)
+
 - [Few-shot Preference Learning for Human-in-the-Loop RL](https://openreview.net/pdf?id=IKC5TfXLuW0)
   - Joey Hejna, Dorsa Sadigh
   - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, Expanding the pool of available data by viewing human-in-the-loop RL
@@ -82,6 +87,16 @@ format:
   - Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li
   - Keyword: Diffusion Model, Text-to-Image, Aesthetic
   - Code: [official](https://github.com/tgxs002/align_sd)
+
+- [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/pdf/2304.05977v2.pdf)
+  - Jiazheng Xu, Xiao Liu, Yuchen Wu, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong
+  - Keyword: General-purpose text-to-Image human preference RM, Evaluating Text-to-Image Generative Models
+  - Code: [official](https://github.com/THUDM/ImageReward)
+  - Dataset: [COCO](https://cocodataset.org/#home), [DiffusionDB](https://poloclub.github.io/diffusiondb/)
+
+- [Aligning Text-to-Image Models using Human Feedback](https://arxiv.org/pdf/2302.12192.pdf)
+  - Kimin Lee, Hao liu, MoonKyung Ryu, Olivia Watkins, Yuqing Du, Craig Boutilier, Pieter Abbeel, Mohammad Ghavamzadeh, Shixiang Shane Gu
+  - Keyword: Text-to-Image, Stable diffusion model, Reward function that predicts human feedback
 
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf)
   - Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
@@ -96,6 +111,15 @@ format:
 - [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215) (f-DPG)
   - Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Nahyeon Ryu, Marc Dymetman
   - Keyword: f-divergence, RL with KL penalties
+
+- [Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons](https://arxiv.org/pdf/2301.11270.pdf)
+  - Banghua Zhu, Jiantao Jiao, Michael I. Jordan
+  - Keyword: Pessimistic MLE, Max-entropy IRL
+
+- [The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/pdf/2302.07459.pdf)
+  - Anthropic
+  - Keyword: Improve moral self-correction capability by increasing RLHF training
+  - Dataset; [BBQ](https://github.com/nyu-mll/BBQ)
 
 ### 2022
 
