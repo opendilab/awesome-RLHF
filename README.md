@@ -5,13 +5,15 @@ And the repository will be continuously updated to track the frontier of RLHF.
 
 Welcome to follow and star!
 
+Hello! My name is Simran.
+
 
 ## Table of Contents
 
 - [Overview of RLHF](#overview-of-rlhf)
 - [Papers](#papers)
 - [Codebases](#codebases)
-- [Blogs](#blogs)
+- [Blogs](#blogs)3
 - [Contributing](#contributing)
 
 ## Overview of RLHF
