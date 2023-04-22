@@ -235,7 +235,11 @@ biçim:
 ESER NİTELİĞİNİN 5846 SAYILI FİKİR VE
 SANAT ESERLERİ KANUNU BAKIMINDAN
 DEĞERLENDİRİLMESİ](https://www.researchgate.net/profile/Osman-Gucluturk/publication/367022218_ChatGPT_ile_Uretilen_Iceriklerin_Eser_Niteliginin_5846_sayili_Fikir_ve_Sanat_Eserleri_Kanunu_Bakimindan_Degerlendirilmesi/links/63be6bf7a03100368a6be52f/ChatGPT-ile-Ueretilen-Iceriklerin-Eser-Niteliginin-5846-sayili-Fikir-ve-Sanat-Eserleri-Kanunu-Bakimindan-Degerlendirilmesi.pdf)
+
+
 -[JOURNAL OF TOURISM AND GASTRONOMY STUDIES](https://www.researchgate.net/profile/Emrullah-Erul/publication/369589050_JOURNAL_OF_TOURISM_AND_GASTRONOMY_STUDIES_ChatGPT_ile_Sohbetler_Turizmde_ChatGPT'nin_Onemi_Chats_with_ChatGPT_Importance_of_ChatGPT_in_Tourism/links/6423641292cfd54f84357cd6/JOURNAL-OF-TOURISM-AND-GASTRONOMY-STUDIES-ChatGPT-ile-Sohbetler-Turizmde-ChatGPTnin-Oenemi-Chats-with-ChatGPT-Importance-of-ChatGPT-in-Tourism.pdf)
+
+
 
 
 ## Kod tabanları
