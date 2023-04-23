@@ -327,7 +327,7 @@ Amacımız bu depoyu daha da iyi hale getirmek. Katkıda bulunmakla ilgileniyors
 ## Lisans
 
 Müthiş RLHF, Apache 2.0 lisansı altında yayınlandı.
-
+[01Kevin01](https://github.com/01Kevin01)
 
 
 
