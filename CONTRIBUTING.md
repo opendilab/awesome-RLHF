@@ -1,48 +1,49 @@
-# Contributing to Awesome RLHF
+LANGUAGE TURKISH
+Türkçe
+# Müthiş RLHF'ye Katkıda Bulunmak
 
-Anyone interested in Reinforcement Learning with Human Feedback is welcomed to contribute to this repo:
+İnsan Geri Bildirimi ile Takviyeli Öğrenme ile ilgilenen herkes bu depoya katkıda bulunabilir:
 
-- You can add the classical or latest publications / tutorials directly to `README.md` and `your_create.md`.
+- Klasik veya en yeni yayınları / öğreticileri doğrudan `README.md` ve `your_create.md`ye ekleyebilirsiniz.
 
-- You are welcomed to update anything helpful.
+- Yararlı herhangi bir şeyi güncellemeniz memnuniyetle karşılanır.
 
 
-## Pull Requests
+## Çekme İstekleri
 
-In general, we follow the "fork-and-pull" Git workflow.
+Genel olarak "çatalla ve çek" Git iş akışını takip ederiz.
 
-1. Fork this repo on your personal GitHub.
+1. Bu depoyu kişisel GitHub'ınızda çatallayın.
 
-2. Clone this repo to your own machine.
+2. Bu repoyu kendi makinenize kopyalayın.
     ```
     git clone https://github.com/<your_username>/awesome-ELHF.git
     ```
 
-3. Make necessary changes and commit those changes.
+3. Gerekli değişiklikleri yapın ve bu değişiklikleri taahhüt edin.
     
--  If you go to this project directory and execute the command `git status`, you'll see there are changes.
+- Bu proje dizinine gidip `git status` komutunu çalıştırırsanız, değişiklikler olduğunu göreceksiniz.
 
-- Add those changes to the branch using the `git add` command:
+- Bu değişiklikleri kullanarak dala ekleyin `git add` command:
     ```
     git add <your_contributor_files>
     ```
-- Now commit those changes using the `git commit` command:
+- Şimdi bu değişiklikleri `git commit` command:
     ```
     git commit -m "add(<your_name>): commit message"
     ```
-    * There are some standards of commit message.
-    * `Template:` add/feature/polish(committer_name or project_name): commit message
-    * `For example:` add(nyz): add one paper about RLHF on #neurips2022
+    * Taahhüt mesajının bazı standartları vardır.
+    * `Şablon:` add/feature/polish(komisyoncu_adı veya proje_adı): taahhüt mesajı
+    * `Örneğin:` add(nyz): #neurips2022'de RLHF hakkında bir makale ekleyin
 
 
-4. Push your work back up to your fork.
+4. Çalışmanızı tekrar çatalınıza doğru itin.
     ```
     git push origin <your_branch_name>
     ```
 
-5. Submit a Pull request so that we can review your changes.
+5. Değişikliklerinizi inceleyebilmemiz için bir Çekme isteği gönderin.
 
-- If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button. Then click `Open pull request` and `Create pull request` buttons in turn.
+- GitHub'daki deponuza giderseniz, bir "Katkıda Bulun" düğmesini görürsünüz. O butona tıklayın. Daha sonra sırasıyla "Çekme isteği aç" ve "Çekme isteği oluştur" butonlarına tıklayın.
 
-- Soon We will be merging all your changes into the main branch of this repo. You will get a notification email once the changes have been merged.
-
+- Yakında tüm değişikliklerinizi bu deponun ana kolunda birleştireceğiz. Değişiklikler birleştirildiğinde bir bildirim e-postası alacaksınız.
