@@ -312,6 +312,10 @@ format:
 - [YouTube] [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 
 
+## Other Language Support
+
+[Turkish](README_TU.md)
+
 ## Contributing
 
 Our purpose is to make this repo even better. If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) for instructions in contribution.
