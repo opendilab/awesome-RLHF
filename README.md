@@ -17,9 +17,6 @@ Welcome to follow and star!
 
 ## Overview of RLHF
 
-
-This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
-And the repository will be continuously updated to track the frontier of model-based rl.
 The idea of RLHF is to use methods from reinforcement learning to directly optimize a language model with human feedback. RLHF has enabled language models to begin to align a model trained on a general corpus of text data to that of complex human values.
 
 - RLHF for Large Language Model (LLM)
