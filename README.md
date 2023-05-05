@@ -1,4 +1,5 @@
 # Awesome RLHF (RL with Human Feedback)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitors](https://visitor-badge.glitch.me/badge?page_id=opendilab/awesome-RLHF) ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-RLHF?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-RLHF?color=9cf) [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-RLHF)](https://github.com/opendilab/awesome-RLHF/blob/main/LICENSE)
 
 This is a collection of research papers for **Reinforcement Learning with Human Feedback** (RLHF).
 And the repository will be continuously updated to track the frontier of RLHF.
@@ -16,6 +17,9 @@ Welcome to follow and star!
 
 ## Overview of RLHF
 
+
+This is a collection of research papers for **model-based reinforcement learning (mbrl)**.
+And the repository will be continuously updated to track the frontier of model-based rl.
 The idea of RLHF is to use methods from reinforcement learning to directly optimize a language model with human feedback. RLHF has enabled language models to begin to align a model trained on a general corpus of text data to that of complex human values.
 
 - RLHF for Large Language Model (LLM)
@@ -296,6 +300,9 @@ format:
 - [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
   - Longpre Shayne, Hou Le, Vu Tu et al.
   - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions
+- [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
+  - Microsoft
+  - Keyword: Affordable RLHF Training
 
 
 ## Blogs
