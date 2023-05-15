@@ -68,6 +68,9 @@ format:
 ```
 
 ### 2023
+- [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
+  - Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins
+  - Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
   - OpenAI
   - Keyword: A large-scale, multimodal model, Transformerbased model, Fine-tuned used RLHF
