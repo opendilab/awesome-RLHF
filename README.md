@@ -268,10 +268,6 @@ format:
   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi
   - Keyword: Optimizing language generators with RL, Benchmark,  Performant RL algorithm
   - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html), [NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog)
-- [HH-RLHF](https://github.com/anthropics/hh-rlhf)
-  - Ben Mann, Deep Ganguli
-  - Keyword: Human preference dataset, Red teaming data, machine-written
-  - Task: Open-source dataset for human preference data about helpfulness and harmlessness
 - [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)
   - Phil Wang
   - Keyword: LaMDA, Attention-mechanism
@@ -285,10 +281,26 @@ format:
   - Thomfoster
   - Keyword: PPO, Minimal library
   - Task: educational purposes
+- [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
+  - Microsoft
+  - Keyword: Affordable RLHF Training
+
+## Dataset
+```
+format:
+- [title](dataset link) [links]
+  - author1, author2, and author3...
+  - keyword
+  - experiment environments or tasks
+```
+- [HH-RLHF](https://github.com/anthropics/hh-rlhf)
+  - Ben Mann, Deep Ganguli
+  - Keyword: Human preference dataset, Red teaming data, machine-written
+  - Task: Open-source dataset for human preference data about helpfulness and harmlessness
 - [Stanford Human Preferences Dataset(SHP)](https://huggingface.co/datasets/stanfordnlp/SHP)
   - Ethayarajh, Kawin and Zhang, Heidi and Wang, Yizhong and Jurafsky, Dan
   - Keyword: Naturally occurring and human-written dataset,18 different subject areas
-  - Task: Intended to be used for training RLHF reward models 
+  - Task: Intended to be used for training RLHF reward models
 - [PromptSource](https://github.com/bigscience-workshop/promptsource)
   - Stephen H. Bach, Victor Sanh, Zheng-Xin Yong et al.
   - Keyword: Prompted English datasets,  Mapping a data example into natural language
@@ -299,11 +311,7 @@ format:
   - Task:  Collection of datasets are related to structured knowledge grounding
 - [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
   - Longpre Shayne, Hou Le, Vu Tu et al.
-  - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions
-- [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
-  - Microsoft
-  - Keyword: Affordable RLHF Training
-
+  - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions 
 
 ## Blogs
 
