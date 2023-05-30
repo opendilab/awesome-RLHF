@@ -12,6 +12,7 @@ Welcome to follow and star!
 - [Overview of RLHF](#overview-of-rlhf)
 - [Papers](#papers)
 - [Codebases](#codebases)
+- [Dataset](#dataset)
 - [Blogs](#blogs)
 - [Contributing](#contributing)
 
