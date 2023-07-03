@@ -9,12 +9,21 @@ Welcome to follow and star!
 
 ## Table of Contents
 
-- [Overview of RLHF](#overview-of-rlhf)
-- [Papers](#papers)
-- [Codebases](#codebases)
-- [Dataset](#dataset)
-- [Blogs](#blogs)
-- [Contributing](#contributing)
+- [Awesome RLHF (RL with Human Feedback)](#awesome-rlhf-rl-with-human-feedback)
+  - [Table of Contents](#table-of-contents)
+  - [Overview of RLHF](#overview-of-rlhf)
+    - [Detailed Explanation](#detailed-explanation)
+  - [Papers](#papers)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+    - [2020 and before](#2020-and-before)
+  - [Codebases](#codebases)
+  - [Dataset](#dataset)
+  - [Blogs](#blogs)
+  - [Other Language Support](#other-language-support)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Overview of RLHF
 
@@ -69,6 +78,10 @@ format:
 ```
 
 ### 2023
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492.pdf)
+  - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li and Houfeng Wang
+  - Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
+  - Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
 - [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
   - Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins
   - Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
