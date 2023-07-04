@@ -285,6 +285,18 @@ format:
 - [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
   - Microsoft
   - Keyword: Affordable RLHF Training
+- [Dromedary](https://github.com/IBM/Dromedary)
+  - IBM
+  - Keyword: Minimal human supervision, Self-aligned
+  - Task: Self-aligned language model trained with minimal human supervision
+- [FG-RLHF](https://finegrainedrlhf.github.io/)
+  - Zeqiu Wu, Yushi Hu, Weijia Shi, et al.
+  - Keyword: Fine-Grained RLHF, providing a reward after every segment, Incorporating multiple RMs associated with different feedback types
+  - Task: A framework that enables training and learning from reward functions that are fine-grained in density and multiple RMs
+-[Safe-RLHF](https://github.com/PKU-Alignment/safe-rlhf)
+  - Xuehai Pan, Ruiyang Sun, Jiaming Ji, et al.
+  - Keyword: Support popular pre-trained models, Large human-labeled dataset, Multi-scale metrics for safety constraints verification, Customized parameters
+  - Task: Constrained Value-Aligned LLM via Safe RLHF
 
 ## Dataset
 ```
@@ -313,6 +325,30 @@ format:
 - [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
   - Longpre Shayne, Hou Le, Vu Tu et al.
   - Task: Collection compiles datasets from Flan 2021, P3, Super-Natural Instructions 
+- [rlhf-reward-datasets](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets)
+  - Yiting Xie
+  - Keyword: Machine-written dataset
+- [webgpt_comparisons](https://huggingface.co/datasets/openai/webgpt_comparisons)
+  - OpenAI
+  - Keyword: Human-written dataset, Long form question answering 
+  - Task:  Train a long form question answering model to align with human preferences
+- [summarize_from_feedback](https://huggingface.co/datasets/openai/summarize_from_feedback)
+  - OpenAI
+  - Keyword: Human-written dataset, summarization
+  - Task:  Train a summarization model to align with human preferences
+- [Dahoas/synthetic-instruct-gptj-pairwise](https://huggingface.co/datasets/Dahoas/synthetic-instruct-gptj-pairwise)
+  - Dahoas
+  - Keyword: Human-written dataset, synthetic dataset
+- [Stable Alignment - Alignment Learning in Social Games](https://github.com/agi-templar/Stable-Alignment)
+  - Ruibo Liu, Ruixin (Ray) Yang, Qiang Peng
+  - Keyword: Interaction data used for alignment training, Run in Sandbox
+  - Task: Train on the recorded interaction data in simulated social games
+- [LIMA](https://huggingface.co/datasets/GAIR/lima)
+  - Meta AI
+  - Keyword: without any RLHF, few carefully curated prompts and responses
+  - Task: Dataset used for training the LIMA model
+
+
 
 ## Blogs
 
