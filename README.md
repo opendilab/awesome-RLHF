@@ -261,6 +261,10 @@ format:
   - experiment environments, datasets or tasks
 ```
 
+- [LLaMA2 + RLHF - DeepSpeed + Ray](https://github.com/OpenLLMAI/OpenLLaMA2)
+  - OpenLLMAI
+  - Keyword: LLaMA2, RLHF, DeepSpeed, Ray
+  - Task: Open-source implementation of Industrial-grade High-performance LLaMA2 RLHF including PPO/RS, etc.
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
   - Phil Wang, Yachine Zahidi, Ikko Eltociear Ashimine, Eric Alcaide
   - Keyword: Transformers, PaLM architecture
