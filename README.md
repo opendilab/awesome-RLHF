@@ -78,6 +78,9 @@ format:
 ```
 
 ### 2023
+- [Aligning Language Models with Offline Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2308.12050.pdf)
+  - Jian Hu, Li Tao, June Yang, Chandler Zhou
+  - Keyword: Decision Transformer-based Alignment, Offline Reinforcement Learning, RLHF System
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492.pdf)
   - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li and Houfeng Wang
   - Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
