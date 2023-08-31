@@ -78,6 +78,9 @@ format:
 ```
 
 ### 2023
+- [Language Instructed Reinforcement Learning for Human-AI Coordination](https://arxiv.org/pdf/2304.07297.pdf)
+  - Hengyuan Hu, Dorsa Sadigh
+  - Keyword: Human-AI coordination, Human preference alignment, Instruction conditioned RL
 - [Aligning Language Models with Offline Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2308.12050.pdf)
   - Jian Hu, Li Tao, June Yang, Chandler Zhou
   - Keyword: Decision Transformer-based Alignment, Offline Reinforcement Learning, RLHF System
