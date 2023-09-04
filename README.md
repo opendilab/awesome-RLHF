@@ -78,19 +78,36 @@ format:
 ```
 
 ### 2023
+- [Tuning computer vision models with task rewards](https://arxiv.org/abs/2302.08242.pdf)
+  - André Susano Pinto, Alexander Kolesnikov, Yuge Shi, Lucas Beyer, Xiaohua Zhai
+  - Keyword: Reward tuning in Computer Vision
+
+- [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215.pdf)
+  - Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Nahyeon Ryu, Marc Dymetman
+  - Keyword: Divergence Objectives in LLM Alignment, Jensen-Shannon Divergence
+
+- [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/pdf/2302.05206.pdf)
+  - Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez
+  - Keyword: Hindsight Instruction Relabeling, RLHF System, No Value Network Required
+  - Code: [official](https://github.com/tianjunz/HIR)
+
 - [Language Instructed Reinforcement Learning for Human-AI Coordination](https://arxiv.org/pdf/2304.07297.pdf)
   - Hengyuan Hu, Dorsa Sadigh
   - Keyword: Human-AI coordination, Human preference alignment, Instruction conditioned RL
+
 - [Aligning Language Models with Offline Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2308.12050.pdf)
   - Jian Hu, Li Tao, June Yang, Chandler Zhou
   - Keyword: Decision Transformer-based Alignment, Offline Reinforcement Learning, RLHF System
+
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492.pdf)
   - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li and Houfeng Wang
   - Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
   - Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
+
 - [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
   - Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins
   - Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
+
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
   - OpenAI
   - Keyword: A large-scale, multimodal model, Transformerbased model, Fine-tuned used RLHF
