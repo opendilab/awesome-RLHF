@@ -82,10 +82,6 @@ format:
   - André Susano Pinto, Alexander Kolesnikov, Yuge Shi, Lucas Beyer, Xiaohua Zhai
   - Keyword: Reward tuning in Computer Vision
 
-- [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215.pdf)
-  - Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Nahyeon Ryu, Marc Dymetman
-  - Keyword: Divergence Objectives in LLM Alignment, Jensen-Shannon Divergence
-
 - [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/pdf/2302.05206.pdf)
   - Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, Joseph E. Gonzalez
   - Keyword: Hindsight Instruction Relabeling, RLHF System, No Value Network Required
