@@ -78,6 +78,26 @@ format:
 ```
 
 ### 2023
+- [AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model](https://arxiv.org/abs/2310.02054)
+  - Zibin Dong, Yifu Yuan, Jianye Hao, Fei Ni, Yao Mu, Yan Zheng, Yujing Hu, Tangjie Lv, Changjie Fan, Zhipeng Hu
+  - Keyword: RLHF, Alignment, Diffusion model
+
+- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931)
+  - Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar
+  - Keyword: LLM based, reward functions design
+
+- [Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)
+  - Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, Yaodong Yang
+  - Keyword: Sale RL, LLM fine-ture
+
+- [Quality Diversity through Human Feedback](https://arxiv.org/abs/2310.12103)
+  - Li Ding, Jenny Zhang, Jeff Clune, Lee Spector, Joel Lehman
+  - Keyword: Quality Diversity, Diffusion model
+
+- [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505)
+  - Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo
+  - Keyword: computational efficiency, variance-reduction technique
+
 - [Tuning computer vision models with task rewards](https://arxiv.org/abs/2302.08242.pdf)
   - André Susano Pinto, Alexander Kolesnikov, Yuge Shi, Lucas Beyer, Xiaohua Zhai
   - Keyword: Reward tuning in Computer Vision
