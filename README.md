@@ -78,6 +78,26 @@ format:
 ```
 
 ### 2023
+- [Sample Efficient Reinforcement Learning from Human Feedback via Active Exploration](https://arxiv.org/abs/2312.00267)
+  - Viraj Mehta, Vikramjeet Das, Ojash Neopane, Yijia Dai, Ilija Bogunovic, Jeff Schneider, Willie Neiswanger
+  - Keyword: RLHF, sample efficience, exploration
+
+- [Reinforcement Learning from Statistical Feedback: the Journey from AB Testing to ANT Testing](https://arxiv.org/abs/2311.14766)
+  - Feiyang Han, Yimin Wei, Zhaofeng Liu, Yanxing Qi
+  - Keyword: RLHF, AB testing, RLSF
+
+- [A Baseline Analysis of Reward Models' Ability To Accurately Analyze Foundation Models Under Distribution Shift](https://arxiv.org/abs/2311.14743)
+  - Ben Pikus, Will LeVine, Tony Chen, Sean Hendryx
+  - Keyword: RLHF, OOD, Distribution Shift 
+
+- [Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language](https://arxiv.org/abs/2311.14543)
+  - Di Jin, Shikib Mehri, Devamanyu Hazarika, Aishwarya Padmakumar, Sungjin Lee, Yang Liu, Mahdi Namazifar
+  - Keyword: RLHF, data-efficient, Alignment
+
+- [Let's Reinforce Step by Step](https://arxiv.org/abs/2311.05821)
+  - Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky
+  - Keyword: RLHF, reasoning
+
 - [Direct Preference-based Policy Optimization without Reward Modeling](https://arxiv.org/abs/2301.12842)
   - Gaon An, Junhyeok Lee, Xingdong Zuo, Norio Kosaka, Kyung-Min Kim, Hyun Oh Song
   - Keyword: RLHF without reward modeling, Contrastive learning, Offline refinforcement learning
