@@ -78,6 +78,11 @@ format:
 ```
 
 ### 2023
+- [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155)
+  - Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu
+  - Keyword: Reward model, RLHF, Reward hacking
+  - Code: [official](https://github.com/shadowkiller33/Contrast-Instruction)
+
 - [Sample Efficient Reinforcement Learning from Human Feedback via Active Exploration](https://arxiv.org/abs/2312.00267)
   - Viraj Mehta, Vikramjeet Das, Ojash Neopane, Yijia Dai, Ilija Bogunovic, Jeff Schneider, Willie Neiswanger
   - Keyword: RLHF, sample efficience, exploration
