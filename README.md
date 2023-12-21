@@ -78,6 +78,10 @@ format:
 ```
 
 ### 2023
+- [Gibbs Sampling from Human Feedback: A Provable KL- constrained Framework for RLHF](https://arxiv.org/abs/2312.11456)
+  - Wei Xiong, Hanze Dong, Chenlu Ye, Han Zhong, Nan Jiang, Tong Zhang
+  - Keyword: RLHF, Online alignment, Mathematical foundation
+
 - [Sample Efficient Reinforcement Learning from Human Feedback via Active Exploration](https://arxiv.org/abs/2312.00267)
   - Viraj Mehta, Vikramjeet Das, Ojash Neopane, Yijia Dai, Ilija Bogunovic, Jeff Schneider, Willie Neiswanger
   - Keyword: RLHF, sample efficience, exploration
