@@ -78,6 +78,12 @@ format:
 ```
 
 ### 2023
+
+- [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155)
+  - Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu
+  - Keyword: Reward model, RLHF, Reward hacking
+  - Code: [official](https://github.com/shadowkiller33/Contrast-Instruction)
+
 - [Gibbs Sampling from Human Feedback: A Provable KL- constrained Framework for RLHF](https://arxiv.org/abs/2312.11456)
   - Wei Xiong, Hanze Dong, Chenlu Ye, Han Zhong, Nan Jiang, Tong Zhang
   - Keyword: RLHF, Online alignment, Mathematical foundation
