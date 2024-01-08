@@ -78,6 +78,11 @@ format:
 ```
 
 ### 2023
+- [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
+  - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
+  - Keyword: RLHF, GAN, Adversarial Games
+  - Code: [Official](https://github.com/Linear95/APO)
+
 - [Gibbs Sampling from Human Feedback: A Provable KL- constrained Framework for RLHF](https://arxiv.org/abs/2312.11456)
   - Wei Xiong, Hanze Dong, Chenlu Ye, Han Zhong, Nan Jiang, Tong Zhang
   - Keyword: RLHF, Online alignment, Mathematical foundation
