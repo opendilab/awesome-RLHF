@@ -14,6 +14,7 @@ Welcome to follow and star!
   - [Overview of RLHF](#overview-of-rlhf)
     - [Detailed Explanation](#detailed-explanation)
   - [Papers](#papers)
+    - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
@@ -76,6 +77,26 @@ format:
   - code
   - experiment environments and datasets
 ```
+
+### 2024
+- [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/pdf/2305.13301.pdf)
+  - Kevin Black, Michael Janner, Yilun Du, Ilya Kostrikov, Sergey Levine
+  - Key: reinforcement learning, RLHF, diffusion models
+  - Code: [official](http://rl-diffusion.github.io/)
+
+- [AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model](https://openreview.net/forum?id=bxfKIYfHyx)
+  - Zibin Dong, Yifu Yuan, Jianye Hao, Fei Ni, Yao Mu, Yan Zheng,Yujing Hu, Tangjie Lv, Changjie Fan, Zhipeng Hu
+  - Key: Reinforcement learning; Diffusion models; RLHF; Preference aligning
+  - Code: [official](https://aligndiff.github.io/)
+
+- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://browse.arxiv.org/pdf/2402.00782)
+  - Alex J. Chan, Hao Sun, Samuel Holt, Mihaela van der Schaar
+  - Key: RLHF
+  - Code: [official](https://github.com/XanderJC/attention-based-credit)
+
+- [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/abs/2402.00742)
+  - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
+  - Key: RLHF, Aligning, LLM
 
 ### 2023
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
