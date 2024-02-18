@@ -79,24 +79,32 @@ format:
 ```
 
 ### 2024
+- [A Theoretical Analysis of Nash Learning from Human Feedback under General KL-Regularized Preference](https://arxiv.org/pdf/2402.07314.pdf)
+  - Chenlu Ye, Wei Xiong, Yuheng Zhang, Nan Jiang, Tong Zhang
+  - Keyword: Game-based RLHF, Nash Learning, Alignment under reward-model-free oracle
+
+- [Mitigating the Alignment Tax of RLHF](https://arxiv.org/pdf/2309.06256.pdf)
+  - Yong Lin, Hangyu Lin, Wei Xiong, Shizhe Diao, Jianmeng Liu, Jipeng Zhang, Rui Pan, Haoxiang Wang, Wenbin Hu, Hanning Zhang, Hanze Dong, Renjie Pi, Han Zhao, Nan Jiang, Heng Ji, Yuan Yao, Tong Zhang
+  - Keyword: RLHF, Alignment tax, Catastrophic forgetting 
+
 - [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/pdf/2305.13301.pdf)
   - Kevin Black, Michael Janner, Yilun Du, Ilya Kostrikov, Sergey Levine
-  - Key: reinforcement learning, RLHF, diffusion models
+  - Keyword: reinforcement learning, RLHF, diffusion models
   - Code: [official](http://rl-diffusion.github.io/)
 
 - [AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model](https://openreview.net/forum?id=bxfKIYfHyx)
   - Zibin Dong, Yifu Yuan, Jianye Hao, Fei Ni, Yao Mu, Yan Zheng,Yujing Hu, Tangjie Lv, Changjie Fan, Zhipeng Hu
-  - Key: Reinforcement learning; Diffusion models; RLHF; Preference aligning
+  - Keyword: Reinforcement learning; Diffusion models; RLHF; Preference aligning
   - Code: [official](https://aligndiff.github.io/)
 
 - [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://browse.arxiv.org/pdf/2402.00782)
   - Alex J. Chan, Hao Sun, Samuel Holt, Mihaela van der Schaar
-  - Key: RLHF
+  - Keyword: RLHF
   - Code: [official](https://github.com/XanderJC/attention-based-credit)
 
 - [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/abs/2402.00742)
   - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
-  - Key: RLHF, Aligning, LLM
+  - Keyword: RLHF, Aligning, LLM
 
 ### 2023
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
@@ -186,7 +194,7 @@ format:
 
 - [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/pdf/2304.06767.pdf)
   - Hanze Dong, Wei Xiong, Deepanshu Goyal, Rui Pan, Shizhe Diao, Jipeng Zhang, Kashun Shum, Tong Zhang
-  - Keyword: Alternative to PPO, ChatGPT, Diffusion Model
+  - Keyword: Rejection Sampling Finetuning, Alternative to PPO, Diffusion Model
   - Code: [official](https://github.com/OptimalScale/LMFlow)
   
 - [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/pdf/2304.05302v1.pdf)
