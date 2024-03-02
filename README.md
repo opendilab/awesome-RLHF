@@ -79,6 +79,10 @@ format:
 ```
 
 ### 2024
+- [Aligning Crowd Feedback via Distributional Preference Reward Modeling](https://arxiv.org/pdf/2402.09764.pdf)
+  - Dexun Li, Cong Zhang, Kuicai Dong, Derrick Goh Xin Deik, Ruiming Tang, Yong Liu
+  - Keyword: RLHF, Preference distribution, Aligning, LLM, 
+
 - [A Theoretical Analysis of Nash Learning from Human Feedback under General KL-Regularized Preference](https://arxiv.org/pdf/2402.07314.pdf)
   - Chenlu Ye, Wei Xiong, Yuheng Zhang, Nan Jiang, Tong Zhang
   - Keyword: Game-based RLHF, Nash Learning, Alignment under reward-model-free oracle
