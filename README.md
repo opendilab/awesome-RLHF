@@ -81,8 +81,16 @@ format:
 ### 2024
 - [Aligning Crowd Feedback via Distributional Preference Reward Modeling](https://arxiv.org/pdf/2402.09764.pdf)
   - Dexun Li, Cong Zhang, Kuicai Dong, Derrick Goh Xin Deik, Ruiming Tang, Yong Liu
-  - Keyword: RLHF, Preference distribution, Aligning, LLM, 
+  - Keyword: RLHF, Preference distribution, Aligning, LLM
 
+- [Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization](https://arxiv.org/pdf/2310.03708.pdf)
+  - Zhanhui Zhou, Jie Liu, Chao Yang, Jing Shao, Yu Liu, Xiangyu Yue, Wanli Ouyang, Yu Qiao
+  - Keyword: Multi-objective RLHF without reward modeling, DPO
+  
+- [Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!](https://arxiv.org/pdf/2402.12343.pdf)
+  - Zhanhui Zhou, Jie Liu, Zhichen Dong, Jiaheng Liu, Chao Yang, Wanli Ouyang, Yu Qiao
+  - Keyword: LLM inference-time attack, DPO, Producing harmful LLMs without training
+ 
 - [A Theoretical Analysis of Nash Learning from Human Feedback under General KL-Regularized Preference](https://arxiv.org/pdf/2402.07314.pdf)
   - Chenlu Ye, Wei Xiong, Yuheng Zhang, Nan Jiang, Tong Zhang
   - Keyword: Game-based RLHF, Nash Learning, Alignment under reward-model-free oracle
