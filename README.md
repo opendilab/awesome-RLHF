@@ -81,7 +81,7 @@ format:
 ### 2024
 - [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/pdf/2312.07401.pdf)
   - Dun Zeng, Yong Dai, Pengyu Cheng, Tianhao Hu, Wanshun Chen, Nan Du, Zenglin Xu
-  - Keyword: Aligning, LLM, Reward modeling on diversified preference
+  - Keyword: Aligning shared preference, Reward modeling metrics, LLM
   - Code: [official](https://github.com/dunzeng/MORE)
 
 - [Aligning Crowd Feedback via Distributional Preference Reward Modeling](https://arxiv.org/pdf/2402.09764.pdf)
