@@ -79,6 +79,14 @@ format:
 ```
 
 ### 2024
+- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
+  - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
+  - Keyword: RLHF, Oracular Reward, Reward Model Analysis, Survey 
+
+- [Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases](https://arxiv.org/abs/2402.08552)
+  - Ziyi Zhang, Sen Zhang, Yibing Zhan, Yong Luo, Yonggang Wen, Dacheng Tao
+  - Keyword: Diffusion Models, Alignment, Reinforcement Learning, RLHF, Reward Overoptimization, Primacy Bias
+
 - [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/pdf/2312.07401.pdf)
   - Dun Zeng, Yong Dai, Pengyu Cheng, Tianhao Hu, Wanshun Chen, Nan Du, Zenglin Xu
   - Keyword: Aligning shared preference, Reward modeling metrics, LLM
@@ -398,10 +406,10 @@ format:
   - experiment environments, datasets or tasks
 ```
 
-- [LLaMA2 + RLHF - DeepSpeed + Ray](https://github.com/OpenLLMAI/OpenLLaMA2)
+- [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)
   - OpenLLMAI
-  - Keyword: LLaMA2, RLHF, DeepSpeed, Ray
-  - Task: Open-source implementation of Industrial-grade High-performance LLaMA2 RLHF including PPO/RS, etc.
+  - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
+  - Task: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
   - Phil Wang, Yachine Zahidi, Ikko Eltociear Ashimine, Eric Alcaide
   - Keyword: Transformers, PaLM architecture
