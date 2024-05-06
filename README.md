@@ -126,6 +126,26 @@ format:
   - Keyword: RLHF, Aligning, LLM
 
 ### 2023
+- [Inverse Preference Learning: Preference-based RL without a Reward Function](https://arxiv.org/pdf/2305.15363)
+  - Joey Hejna, Dorsa Sadigh
+  - Keyword: Inverse Preference Learning, without reward model
+  - Code: [Official](https://github.com/jhejna/inverse-preference-learning)
+
+- [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)
+  - Yann Dubois, Chen Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy S. Liang, Tatsunori B. Hashimoto
+  - Keyword: RLHF, Simulation Framework
+  - Code: [Official](https://github.com/tatsu-lab/alpaca_farm)
+
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492)
+  - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang
+  - Keyword: Preference Ranking Optimization
+  - Code: [Official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
+
+- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
+  - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
+  - Keyword: Self-Play Fine-Tuning
+  - Code: [Official](https://github.com/uclaml/SPIN)
+
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
   - Keyword: RLHF, GAN, Adversarial Games
