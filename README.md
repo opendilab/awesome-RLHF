@@ -79,6 +79,11 @@ format:
 ```
 
 ### 2024
+- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
+  - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
+  - Keyword: Self-Play Fine-Tuning
+  - Code: [Official](https://github.com/uclaml/SPIN)
+
 - [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
   - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
   - Keyword: RLHF, Oracular Reward, Reward Model Analysis, Survey 
@@ -148,11 +153,6 @@ format:
   - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang
   - Keyword: Preference Ranking Optimization
   - Code: [Official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
-
-- [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
-  - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
-  - Keyword: Self-Play Fine-Tuning
-  - Code: [Official](https://github.com/uclaml/SPIN)
 
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
