@@ -79,6 +79,11 @@ format:
 ```
 
 ### 2024
+- [A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/pdf/2402.08265)
+  - Shentao Yang, Tianqi Chen, Mingyuan Zhou
+  - Keyword: RLHF for Text-to-Image Generation, Dense Reward Improvement of DPO, Efficient Alignment
+  - Code: [Official](https://github.com/Shentao-YANG/Dense_Reward_T2I)
+
 - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
   - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
   - Keyword: Self-Play Fine-Tuning
@@ -140,6 +145,16 @@ format:
   - Keyword: RLHF, Aligning, LLM
 
 ### 2023
+- [Preference-grounded Token-level Guidance for Language Model Fine-tuning](https://proceedings.neurips.cc/paper_files/paper/2023/file/4d4a3b6a34332d80349137bcc98164a5-Paper-Conference.pdf)
+  - Shentao Yang, Shujian Zhang, Congying Xia, Yihao Feng, Caiming Xiong, Mingyuan Zhou
+  - Keyword: RLHF, Token-level Training Guidance, Alternate/Online Training Framework, Minimalist Training Objectives
+  - Code: [Official](https://github.com/Shentao-YANG/Preference_Grounded_Guidance)
+
+- [Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems](https://arxiv.org/pdf/2302.10342)
+  - Yihao Feng*, Shentao Yang*, Shujian Zhang, Jianguo Zhang, Caiming Xiong, Mingyuan Zhou, Huan Wang
+  - Keyword: RLHF, Genralized Reward Function Learning, Reward Function Utilization, Task-oriented Dialogue System, Learning-to-rank
+  - Code: [Official](https://github.com/Shentao-YANG/Fantastic_Reward_ICLR2023)
+
 - [Inverse Preference Learning: Preference-based RL without a Reward Function](https://arxiv.org/pdf/2305.15363)
   - Joey Hejna, Dorsa Sadigh
   - Keyword: Inverse Preference Learning, without reward model
