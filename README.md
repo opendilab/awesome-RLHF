@@ -422,8 +422,8 @@ format:
   - experiment environments, datasets or tasks
 ```
 
-- [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)
-  - OpenLLMAI
+- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+  - OpenRLHF
   - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
   - Task: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
