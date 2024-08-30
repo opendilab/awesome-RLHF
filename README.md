@@ -79,6 +79,21 @@ format:
 ```
 
 ### 2024
+- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
+  - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
+  - Keyword:  the role of reward models and methods for their training
+  - Code: [Official]()
+
+- [MaxMin-RLHF: Towards equitable alignment of large language models with diverse human preferences](https://arxiv.org/abs/2402.08925)
+  - Souradip Chakraborty, Jiahao Qiu, Hui Yuan, Alec Koppel, Furong Huang, Dinesh Manocha, Amrit Singh Bedi, Mengdi Wang
+  - Keyword: mixture of preference distributions, MaxMin alignment objective
+  - Code: [Official]()
+
+- [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/abs/2404.08495)
+  - Jonathan D. Chang, Wenhao Zhan, Owen Oertell, Kianté Brantley, Dipendra Misra, Jason D. Lee, Wen Sun
+  - Keyword: Dataset Reset Policy Optimization
+  - Code: [Official](https://github.com/Cornell-RL/drpo)
+
 - [A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/pdf/2402.08265)
   - Shentao Yang, Tianqi Chen, Mingyuan Zhou
   - Keyword: RLHF for Text-to-Image Generation, Dense Reward Improvement of DPO, Efficient Alignment
