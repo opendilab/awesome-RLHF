@@ -79,6 +79,26 @@ format:
 ```
 
 ### 2024
+- [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://proceedings.mlr.press/v235/lee24t.html)
+  - Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Ren Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, Sushant Prakash
+  - Keyword:  RL from AI Feedback
+  - Code: [official]()
+
+- [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://proceedings.mlr.press/v235/shen24g.html)
+  - Han Shen, Zhuoran Yang, Tianyi Chen
+  - Keyword:  Bilevel optimization
+  - Code: [official]()
+
+- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
+  - Alex James Chan, Hao Sun, Samuel Holt, Mihaela Van Der Schaar
+  - Keyword:  reward shaping, RLHF
+  - Code: [official]( https://github.com/XanderJC/attention-based-credit)
+
+- [A Minimaximalist Approach to Reinforcement Learning from Human Feedback](https://proceedings.mlr.press/v235/swamy24a.html)
+  - Gokul Swamy, Christoph Dann, Rahul Kidambi, Steven Wu, Alekh Agarwal
+  - Keyword: Minimax Winner, Self-Play Preference Optimization
+  - Code: [official]()
+
 - [Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
   - Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun, Tat-Seng Chua
   - Keyword:  Multimodal Large Language Models, Hallucination Problem, Reinforcement Learning from Human Feedback
