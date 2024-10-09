@@ -79,17 +79,52 @@ format:
 ```
 
 ### 2024
-- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
-  - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
-  - Keyword:  the role of reward models and methods for their training
+- [ALaRM: Align Language Models via Hierarchical Rewards Modeling](https://arxiv.org/pdf/2403.06754)
+  - Yuhang Lai, Siyuan Wang, Shujun Liu, Xuanjing Huang, Zhongyu Wei
+  - Keyword: Hierarchical Reward, Open Text Generation Tasks
+  - Code: [Official](https://github.com/halfrot/ALaRM)
+
+- [TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2407.16574)
+  - Eunseop Yoon, Hee Suk Yoon, SooHwan Eom, Gunsoo Han, Daniel Wontae Nam, Daejin Jo, Kyoung-Woon On, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
+  - Keyword: Token-Level Continuous Reward, RLHF
   - Code: [Official]()
 
-- [MaxMin-RLHF: Towards equitable alignment of large language models with diverse human preferences](https://arxiv.org/abs/2402.08925)
+- [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/pdf/2309.14525.pdf)
+  - Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell
+  - Keyword: Factually Augmented RLHF, Vision & Language, Human Preference Dataset
+  - Code: [Official](https://github.com/llava-rlhf/LLaVA-RLHF)
+
+- [Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation](https://arxiv.org/pdf/2402.11907)
+  - Aiwei Liu, Haoping Bai, Zhiyun Lu, Xiang Kong, Simon Wang, Jiulong Shan, Meng Cao, Lijie Wen
+  - Keyword: Without Human Preference Data, Self-Reward, DPO
+  - Code: [Official](https://github.com/exlaw/DLMA)
+
+- [Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards](https://arxiv.org/pdf/2402.18571)
+  - Haoxiang Wang, Yong Lin, Wei Xiong, Rui Yang, Shizhe Diao, Shuang Qiu, Han Zhao, Tong Zhang
+  - Keyword: User Preference, Multi-objective Reward Model, Rejection Sampling Finetuning
+  - Code: [Official](https://github.com/Haoxiang-Wang/directional-preference-alignment)
+
+- [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](https://arxiv.org/pdf/2402.14740)
+  - Arash Ahmadian, Chris Cremer, Matthias Gallé, Marzieh Fadaee, Julia Kreutzer, Olivier Pietquin, Ahmet Üstün, Sara Hooker
+  - Keyword: Online RL Optimization, Low Computational Cost
+  - Code: [Official]()
+
+- [Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint](https://arxiv.org/pdf/2401.06081)
+  - Zhipeng Chen, Kun Zhou, Wayne Xin Zhao, Junchen Wan, Fuzheng Zhang, Di Zhang, Ji-Rong Wen
+  - Keyword: Token-level Reward, LLM
+  - Code: [Official](https://github.com/RUCAIBox/RLMEC)
+
+- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/pdf/2404.08555)
+  - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
+  - Keyword: the role of reward models and methods for their training
+  - Code: [Official]()
+
+- [MaxMin-RLHF: Towards equitable alignment of large language models with diverse human preferences](https://arxiv.org/pdf/2402.08925)
   - Souradip Chakraborty, Jiahao Qiu, Hui Yuan, Alec Koppel, Furong Huang, Dinesh Manocha, Amrit Singh Bedi, Mengdi Wang
   - Keyword: mixture of preference distributions, MaxMin alignment objective
   - Code: [Official]()
 
-- [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/abs/2404.08495)
+- [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/pdf/2404.08495)
   - Jonathan D. Chang, Wenhao Zhan, Owen Oertell, Kianté Brantley, Dipendra Misra, Jason D. Lee, Wen Sun
   - Keyword: Dataset Reset Policy Optimization
   - Code: [Official](https://github.com/Cornell-RL/drpo)
@@ -104,11 +139,11 @@ format:
   - Keyword: Self-Play Fine-Tuning
   - Code: [Official](https://github.com/uclaml/SPIN)
 
-- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
+- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/pdf/2404.08555)
   - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
   - Keyword: RLHF, Oracular Reward, Reward Model Analysis, Survey 
 
-- [Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases](https://arxiv.org/abs/2402.08552)
+- [Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases](https://arxiv.org/pdf/2402.08552)
   - Ziyi Zhang, Sen Zhang, Yibing Zhan, Yong Luo, Yonggang Wen, Dacheng Tao
   - Keyword: Diffusion Models, Alignment, Reinforcement Learning, RLHF, Reward Overoptimization, Primacy Bias
   - Code: [official](https://github.com/ZiyiZhang27/tdpo)
@@ -155,7 +190,7 @@ format:
   - Keyword: RLHF
   - Code: [official](https://github.com/XanderJC/attention-based-credit)
 
-- [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/abs/2402.00742)
+- [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/pdf/2402.00742)
   - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
   - Keyword: RLHF, Aligning, LLM
 
@@ -185,60 +220,60 @@ format:
   - Keyword: Preference Ranking Optimization
   - Code: [Official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
 
-- [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
+- [Adversarial Preference Optimization](https://arxiv.org/pdf/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
   - Keyword: RLHF, GAN, Adversarial Games
   - Code: [Official](https://github.com/Linear95/APO)
 
-- [Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
+- [Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/pdf/2312.11456)
   - Wei Xiong, Hanze Dong, Chenlu Ye, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, Tong Zhang
   - Keyword: RLHF, Iterative DPO, Mathematical foundation
 
-- [Sample Efficient Reinforcement Learning from Human Feedback via Active Exploration](https://arxiv.org/abs/2312.00267)
+- [Sample Efficient Reinforcement Learning from Human Feedback via Active Exploration](https://arxiv.org/pdf/2312.00267)
   - Viraj Mehta, Vikramjeet Das, Ojash Neopane, Yijia Dai, Ilija Bogunovic, Jeff Schneider, Willie Neiswanger
   - Keyword: RLHF, sample efficience, exploration
 
-- [Reinforcement Learning from Statistical Feedback: the Journey from AB Testing to ANT Testing](https://arxiv.org/abs/2311.14766)
+- [Reinforcement Learning from Statistical Feedback: the Journey from AB Testing to ANT Testing](https://arxiv.org/pdf/2311.14766)
   - Feiyang Han, Yimin Wei, Zhaofeng Liu, Yanxing Qi
   - Keyword: RLHF, AB testing, RLSF
 
-- [A Baseline Analysis of Reward Models' Ability To Accurately Analyze Foundation Models Under Distribution Shift](https://arxiv.org/abs/2311.14743)
+- [A Baseline Analysis of Reward Models' Ability To Accurately Analyze Foundation Models Under Distribution Shift](https://arxiv.org/pdf/2311.14743)
   - Ben Pikus, Will LeVine, Tony Chen, Sean Hendryx
   - Keyword: RLHF, OOD, Distribution Shift 
 
-- [Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language](https://arxiv.org/abs/2311.14543)
+- [Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language](https://arxiv.org/pdf/2311.14543)
   - Di Jin, Shikib Mehri, Devamanyu Hazarika, Aishwarya Padmakumar, Sungjin Lee, Yang Liu, Mahdi Namazifar
   - Keyword: RLHF, data-efficient, Alignment
 
-- [Let's Reinforce Step by Step](https://arxiv.org/abs/2311.05821)
+- [Let's Reinforce Step by Step](https://arxiv.org/pdf/2311.05821)
   - Sarah Pan, Vladislav Lialin, Sherin Muckatira, Anna Rumshisky
   - Keyword: RLHF, reasoning
 
-- [Direct Preference-based Policy Optimization without Reward Modeling](https://arxiv.org/abs/2301.12842)
+- [Direct Preference-based Policy Optimization without Reward Modeling](https://arxiv.org/pdf/2301.12842)
   - Gaon An, Junhyeok Lee, Xingdong Zuo, Norio Kosaka, Kyung-Min Kim, Hyun Oh Song
   - Keyword: RLHF without reward modeling, Contrastive learning, Offline refinforcement learning
 
-- [AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model](https://arxiv.org/abs/2310.02054)
+- [AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model](https://arxiv.org/pdf/2310.02054)
   - Zibin Dong, Yifu Yuan, Jianye Hao, Fei Ni, Yao Mu, Yan Zheng, Yujing Hu, Tangjie Lv, Changjie Fan, Zhipeng Hu
   - Keyword: RLHF, Alignment, Diffusion model
 
-- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931)
+- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/pdf/2310.12931)
   - Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar
   - Keyword: LLM based, reward functions design
 
-- [Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2310.12773)
+- [Safe RLHF: Safe Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2310.12773)
   - Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, Yaodong Yang
   - Keyword: Sale RL, LLM fine-ture
 
-- [Quality Diversity through Human Feedback](https://arxiv.org/abs/2310.12103)
+- [Quality Diversity through Human Feedback](https://arxiv.org/pdf/2310.12103)
   - Li Ding, Jenny Zhang, Jeff Clune, Lee Spector, Joel Lehman
   - Keyword: Quality Diversity, Diffusion model
 
-- [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505)
+- [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/pdf/2310.10505)
   - Ziniu Li, Tian Xu, Yushun Zhang, Yang Yu, Ruoyu Sun, Zhi-Quan Luo
   - Keyword: computational efficiency, variance-reduction technique
 
-- [Tuning computer vision models with task rewards](https://arxiv.org/abs/2302.08242.pdf)
+- [Tuning computer vision models with task rewards](https://arxiv.org/pdf/2302.08242.pdf)
   - André Susano Pinto, Alexander Kolesnikov, Yuge Shi, Lucas Beyer, Xiaohua Zhai
   - Keyword: Reward tuning in Computer Vision
 
@@ -260,7 +295,7 @@ format:
   - Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
   - Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
 
-- [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/abs/2305.00955)
+- [Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation](https://arxiv.org/pdf/2305.00955)
   - Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro Henrique Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins
   - Keyword: Natural Language Generation, Human Feedback Integration, Feedback Formalization and Taxonomy, AI Feedback and Principles-Based Judgments
 
@@ -285,7 +320,7 @@ format:
   - Keyword: Preference Learning, Interactive Learning, Multi-task Learning, Expanding the pool of available data by viewing human-in-the-loop RL
   - Code: [official](https://github.com/jhejna/few-shot-preference-rl)
 
-- [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420)
+- [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/pdf/2303.14420)
   - Xiaoshi Wu, Keqiang Sun, Feng Zhu, Rui Zhao, Hongsheng Li
   - Keyword: Diffusion Model, Text-to-Image, Aesthetic
   - Code: [official](https://github.com/tgxs002/align_sd)
@@ -305,12 +340,12 @@ format:
   - Keyword: Visual Foundation Models, Visual ChatGPT 
   - Code: [official](https://github.com/microsoft/visual-chatgpt)
 
-- [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582) (PHF)
+- [Pretraining Language Models with Human Preferences](https://arxiv.org/pdf/2302.08582) (PHF)
   - Tomasz Korbak, Kejian Shi, Angelica Chen, Rasika Bhalerao, Christopher L. Buckley, Jason Phang, Samuel R. Bowman, Ethan Perez
   - Keyword: Pretraining, offline RL, Decision transformer
   - Code: [official](https://github.com/tomekkorbak/pretraining-with-human-feedback)
 
-- [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/abs/2302.08215) (f-DPG)
+- [Aligning Language Models with Preferences through f-divergence Minimization](https://arxiv.org/pdf/2302.08215) (f-DPG)
   - Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Nahyeon Ryu, Marc Dymetman
   - Keyword: f-divergence, RL with KL penalties
 
@@ -325,40 +360,40 @@ format:
 
 ### 2022
 
-- [Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/abs/2210.01241) (NLPO)
+- [Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization](https://arxiv.org/pdf/2210.01241) (NLPO)
   - Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté,Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi
   - Keyword: Optimizing language generators with RL, Benchmark,  Performant RL algorithm
   - Code: [official](https://github.com/allenai/RL4LMs)
   - Dataset: [IMDB](https://www.imdb.com/interfaces/), [CommonGen](https://inklab.usc.edu/CommonGen/), [CNN Daily Mail](https://github.com/abisee/cnn-dailymail), [ToTTo](https://github.com/google-research-datasets/ToTTo), [WMT-16 (en-de)](https://www.statmt.org/wmt16/it-translation-task.html),[NarrativeQA](https://github.com/deepmind/narrativeqa), [DailyDialog](http://yanran.li/dailydialog)
-- [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/abs/2210.10760)
+- [Scaling Laws for Reward Model Overoptimization](https://arxiv.org/pdf/2210.10760)
   - Leo Gao, John Schulman, Jacob Hilton
   - Keyword: Gold reward model train proxy reward model, Dataset size, Policy parameter size, BoN, PPO
-- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) (Sparrow)
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375) (Sparrow)
   - Amelia Glaese, Nat McAleese, Maja Trębacz, et al.
   - Keyword: Information-seeking dialogue agent, Break down the good dialogue into natural language rules, DPC, Interact with the model to elicit violation of a specific rule (Adversarial Probing)
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [WinoBias](https://github.com/uclanlp/corefBias/tree/master/WinoBias/wino), [BBQ](https://github.com/nyu-mll/BBQ)
-- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858)
+- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/pdf/2209.07858)
   - Deep Ganguli, Liane Lovitt, Jackson Kernion, et al.
   - Keyword: Red team language model, Investigate scaling behaviors, Read teaming Dataset
   - Code: [official](https://github.com/anthropics/hh-rlhf)
-- [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/abs/2208.02294)
+- [Dynamic Planning in Open-Ended Dialogue using Reinforcement Learning](https://arxiv.org/pdf/2208.02294)
   - Deborah Cohen, Moonkyung Ryu, Yinlam Chow, Orgad Keller, Ido Greenberg, Avinatan Hassidim, Michael Fink, Yossi Matias, Idan Szpektor, Craig Boutilier, Gal Elidan
   - Keyword: Real-time, Open-ended dialogue system, Pairs the succinct embedding of the conversation state by language models, CAQL, CQL, [BERT](https://github.com/google-research/bert)
-- [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/abs/2205.13636)
+- [Quark: Controllable Text Generation with Reinforced Unlearning](https://arxiv.org/pdf/2205.13636)
   - Ximing Lu, Sean Welleck, Jack Hessel, Liwei Jiang, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, Yejin Choi
   - Keyword: Fine-tuning the language model on signals of what not to do, Decision Transformer, LLM tuning with PPO
   - Code: [official](https://github.com/gximinglu/quark)
   - Dataset: [WRITINGPROMPTS](https://www.kaggle.com/datasets/ratthachat/writing-prompts), [SST-2](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english), [WIKITEXT-103](https://blog.salesforceairesearch.com/the-wikitext-long-term-dependency-language-modeling-dataset/)
-- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862)
   - Yuntao Bai, Andy Jones, Kamal Ndousse, et al.
   - Keyword: Harmless assistants, Online mode, Robustness of RLHF training, OOD detection.
   - Code: [official](https://github.com/anthropics/hh-rlhf)
   - Dataset: [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [HellaSwag](https://rowanzellers.com/hellaswag/), [ARC](https://allenai.org/data/arc), [OpenBookQA](https://allenai.org/data/open-book-qa), [LAMBADA](https://zenodo.org/record/2630551#.Y_KLJ-yZNhF), [HumanEval](https://github.com/openai/human-eval), [MMLU](https://github.com/hendrycks/test), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-- [Teaching language models to support answers with verified quotes](https://arxiv.org/abs/2203.11147) (GopherCite)
+- [Teaching language models to support answers with verified quotes](https://arxiv.org/pdf/2203.11147) (GopherCite)
   - Jacob Menick, Maja Trebacz, Vladimir Mikulik, John Aslanides, Francis Song, Martin Chadwick, Mia Glaese, Susannah Young, Lucy Campbell-Gillingham, Geoffrey Irving, Nat McAleese
   - Keyword: Generate answers which citing specific evidence, Abstain from answering when unsure
   - Dataset: [Natural Questions](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/), [QuALITY](https://github.com/nyu-mll/quality), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
+- [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155) (InstructGPT)
   - Long Ouyang, Jeff Wu, Xu Jiang, et al.
   - Keyword: Large Language Model, Align Language Model with Human Intent
   - Code: [official](https://github.com/openai/following-instructions-human-feedback)
@@ -367,26 +402,26 @@ format:
   - Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, et al.
   - Keyword: RL from AI feedback(RLAIF), Training a harmless AI assistant through selfimprovement, Chain-of-thought style, Control AI behavior more precisely
   - Code: [official](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)
-- [Discovering Language Model Behaviors with Model-Written Evaluations](https://arxiv.org/abs/2212.09251)
+- [Discovering Language Model Behaviors with Model-Written Evaluations](https://arxiv.org/pdf/2212.09251)
   - Ethan Perez, Sam Ringer, Kamilė Lukošiūtė, Karina Nguyen, Edwin Chen, et al.
   - Keyword: Automatically generate evaluations with LMs, More RLHF makes LMs worse, LM-written evaluations are highquality
   - Code: [official](https://github.com/anthropics/evals)
   - Dataset: [BBQ](https://github.com/nyu-mll/BBQ), [Winogender Schemas](https://github.com/rudinger/winogender-schemas)
-- [Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning](https://arxiv.org/abs/2205.15367)
+- [Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning](https://arxiv.org/pdf/2205.15367)
   - Joseph Early, Tom Bewley, Christine Evers, Sarvapali Ramchurn
   - Keyword: Reward Modelling (RLHF), Non-Markovian, Multiple Instance Learning, Interpretability
   - Code: [official](https://github.com/JAEarly/MIL-for-Non-Markovian-Reward-Modelling)
 
 ### 2021
-- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
+- [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332) (WebGPT)
   - Reiichiro Nakano, Jacob Hilton, Suchir Balaji, et al.
   - Keyword: Model search the web and provide reference， Imitation learning， BC, long form question
   - Dataset: [ELI5](https://facebookresearch.github.io/ELI5/), [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), [TruthfulQA](https://github.com/sylinrl/TruthfulQA)
-- [Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)
+- [Recursively Summarizing Books with Human Feedback](https://arxiv.org/pdf/2109.10862)
   - Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
   - Keyword:  Model trained on small task to assist human evaluate broader task, BC
   - Dataset: [Booksum](https://github.com/salesforce/booksum), [NarrativeQA](https://github.com/deepmind/narrativeqa)
-- [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/abs/2106.08942)
+- [Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation](https://arxiv.org/pdf/2106.08942)
   - Samuel Kiegeland, Julia Kreutzer
   - Keyword:  The success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
   - Code: [official](https://github.com/samuki/reinforce-joey)
@@ -394,37 +429,37 @@ format:
 
 ### 2020 and before
 
-- [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+- [Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325)
   - Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano
   - Keyword: Care about summary quality, Training loss affect the model behavior, Reward model generalizes to new datasets
   - Code: [official](https://github.com/openai/summarize-from-feedback)
   - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
-- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
+- [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593)
   - Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul Christiano, Geoffrey Irving
   - Keyword: Reward learning for language, Continuing text with positive sentiment, Summary task, Physical descriptive
   - Code: [official](https://github.com/openai/lm-human-preferences)
   - Dataset: [TL;DR](https://www.tensorflow.org/datasets/catalog/reddit), [CNN/DM](https://github.com/abisee/cnn-dailymail)
-- [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/abs/1811.07871)
+- [Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871)
   - Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg
   - Keyword: Agent alignment problem, Learn reward from interaction, Optimize reward with RL, Recursive reward modeling
   - Code: [official](https://github.com/rddy/ReQueST)
   - Env: Atari
-- [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/abs/1811.06521)
+- [Reward learning from human preferences and demonstrations in Atari](https://arxiv.org/pdf/1811.06521)
   - Borja Ibarz, Jan Leike, Tobias Pohlen, Geoffrey Irving, Shane Legg, Dario Amodei
   - Keyword: Expert demonstration trajectory preferences reward hacking problem, Noise in human label
   - Code: [official](https://github.com/rddy/ReQueST)
   - Env: Atari
-- [Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces](https://arxiv.org/abs/1709.10163)
+- [Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces](https://arxiv.org/pdf/1709.10163)
   - Garrett Warnell, Nicholas Waytowich, Vernon Lawhern, Peter Stone
   - Keyword:  High dimension state, Leverage the input of Human trainer
   - Code: [third party](https://github.com/bharadwaj1098/Tamer)
   - Env: Atari
-- [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)
+- [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741)
   - Paul Christiano, Jan Leike, Tom B. Brown, Miljan Martic, Shane Legg, Dario Amodei
   - Keyword: Explore goal defined in human preferences between pairs of trajectories segmentation, Learn more complex thing than human feedback
   - Code: [official](https://github.com/mrahtz/learning-from-human-preferences)
   - Env: Atari, MuJoCo
-- [Interactive Learning from Policy-Dependent Human Feedback](https://arxiv.org/abs/1701.06049)
+- [Interactive Learning from Policy-Dependent Human Feedback](https://arxiv.org/pdf/1701.06049)
   - James MacGlashan, Mark K Ho, Robert Loftin, Bei Peng, Guan Wang, David Roberts, Matthew E. Taylor, Michael L. Littman
   - Keyword: Decision is influenced by current policy rather than human feedback, Learn from policy dependent feedback that converges to a local optimal
 
