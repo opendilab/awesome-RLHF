@@ -621,6 +621,7 @@ format:
 - [YouTube] [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 - [OpenAI / Arize] [OpenAI on Reinforcement Learning With Human Feedback](https://arize.com/blog/openai-on-rlhf/)
 - [Encord] [Guide to Reinforcement Learning from Human Feedback (RLHF) for Computer Vision](https://encord.com/blog/guide-to-rlhf/)
+- [Weixun Wang] [Overview of RL(HF)+LLM](https://github.com/wwxFromTju/wwxFromTju.github.io/blob/master/slide/RL(HF)%2BLLM%E7%9A%84%E7%89%87%E9%9D%A2%E8%84%89%E7%BB%9C.JPG)
 
 
 ## Other Language Support
