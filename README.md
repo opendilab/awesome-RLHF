@@ -79,19 +79,54 @@ format:
 ```
 
 ### 2024
+- [ALaRM: Align Language Models via Hierarchical Rewards Modeling](https://arxiv.org/abs/2403.06754)
+  - Yuhang Lai, Siyuan Wang, Shujun Liu, Xuanjing Huang, Zhongyu Wei
+  - Keyword: Hierarchical Reward, Open Text Generation Tasks
+  - Code: [Official](https://github.com/halfrot/ALaRM)
+
+- [TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2407.16574)
+  - Eunseop Yoon, Hee Suk Yoon, SooHwan Eom, Gunsoo Han, Daniel Wontae Nam, Daejin Jo, Kyoung-Woon On, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
+  - Keyword: Token-Level Continuous Reward, RLHF
+  - Code: [Official]()
+
+- [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/abs/2309.14525)
+  - Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell
+  - Keyword: Factually Augmented RLHF, Vision & Language, Human Preference Dataset
+  - Code: [Official](https://github.com/llava-rlhf/LLaVA-RLHF)
+
+- [Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation](https://arxiv.org/abs/2402.11907)
+  - Aiwei Liu, Haoping Bai, Zhiyun Lu, Xiang Kong, Simon Wang, Jiulong Shan, Meng Cao, Lijie Wen
+  - Keyword: Without Human Preference Data, Self-Reward, DPO
+  - Code: [Official](https://github.com/exlaw/DLMA)
+
+- [Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards](https://arxiv.org/abs/2402.18571)
+  - Haoxiang Wang, Yong Lin, Wei Xiong, Rui Yang, Shizhe Diao, Shuang Qiu, Han Zhao, Tong Zhang
+  - Keyword: User Preference, Multi-objective Reward Model, Rejection Sampling Finetuning
+  - Code: [Official](https://github.com/Haoxiang-Wang/directional-preference-alignment)
+
+- [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](https://arxiv.org/abs/2402.14740)
+  - Arash Ahmadian, Chris Cremer, Matthias Gallé, Marzieh Fadaee, Julia Kreutzer, Olivier Pietquin, Ahmet Üstün, Sara Hooker
+  - Keyword: Online RL Optimization, Low Computational Cost
+  - Code: [Official]()
+
+- [Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint](https://arxiv.org/abs/2401.06081)
+  - Zhipeng Chen, Kun Zhou, Wayne Xin Zhao, Junchen Wan, Fuzheng Zhang, Di Zhang, Ji-Rong Wen
+  - Keyword: Token-level Reward, LLM
+  - Code: [Official](https://github.com/RUCAIBox/RLMEC)
+  
 - [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://proceedings.mlr.press/v235/lee24t.html)
   - Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Ren Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, Sushant Prakash
-  - Keyword:  RL from AI Feedback
+  - Keyword: RL from AI Feedback
   - Code: [official]()
 
 - [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://proceedings.mlr.press/v235/shen24g.html)
   - Han Shen, Zhuoran Yang, Tianyi Chen
-  - Keyword:  Bilevel optimization
+  - Keyword: Bilevel optimization
   - Code: [official]()
 
 - [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
   - Alex James Chan, Hao Sun, Samuel Holt, Mihaela Van Der Schaar
-  - Keyword:  reward shaping, RLHF
+  - Keyword: reward shaping, RLHF
   - Code: [official]( https://github.com/XanderJC/attention-based-credit)
 
 - [A Minimaximalist Approach to Reinforcement Learning from Human Feedback](https://proceedings.mlr.press/v235/swamy24a.html)
@@ -101,18 +136,13 @@ format:
 
 - [Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
   - Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun, Tat-Seng Chua
-  - Keyword:  Multimodal Large Language Models, Hallucination Problem, Reinforcement Learning from Human Feedback
+  - Keyword: Multimodal Large Language Models, Hallucination Problem, Reinforcement Learning from Human Feedback
   - Code: [official](https://github.com/RLHF-V/RLHF-V)
 
 - [RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)
   - Hanze Dong, Wei Xiong, Bo Pang, Haoxiang Wang, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang
-  - Keyword:  Online Iterative RLHF, Preference Modeling, Large Language Models
+  - Keyword: Online Iterative RLHF, Preference Modeling, Large Language Models
   - Code: [official](https://github.com/RLHFlow/Online-RLHF)
-
-- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
-  - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
-  - Keyword:  the role of reward models and methods for their training
-  - Code: [official]()
 
 - [MaxMin-RLHF: Towards equitable alignment of large language models with diverse human preferences](https://arxiv.org/abs/2402.08925)
   - Souradip Chakraborty, Jiahao Qiu, Hui Yuan, Alec Koppel, Furong Huang, Dinesh Manocha, Amrit Singh Bedi, Mengdi Wang
@@ -591,6 +621,7 @@ format:
 - [YouTube] [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 - [OpenAI / Arize] [OpenAI on Reinforcement Learning With Human Feedback](https://arize.com/blog/openai-on-rlhf/)
 - [Encord] [Guide to Reinforcement Learning from Human Feedback (RLHF) for Computer Vision](https://encord.com/blog/guide-to-rlhf/)
+- [Weixun Wang] [Overview of RL(HF)+LLM](https://github.com/wwxFromTju/wwxFromTju.github.io/blob/master/slide/RL(HF)%2BLLM%E7%9A%84%E7%89%87%E9%9D%A2%E8%84%89%E7%BB%9C.JPG)
 
 
 ## Other Language Support
