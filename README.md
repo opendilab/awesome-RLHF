@@ -79,6 +79,11 @@ format:
 ```
 
 ### 2024
+- [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
+  - Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Code: [Official](https://github.com/volcengine/verl)
+
 - [ALaRM: Align Language Models via Hierarchical Rewards Modeling](https://arxiv.org/abs/2403.06754)
   - Yuhang Lai, Siyuan Wang, Shujun Liu, Xuanjing Huang, Zhongyu Wei
   - Keyword: Hierarchical Reward, Open Text Generation Tasks
@@ -513,6 +518,10 @@ format:
   - keyword
   - experiment environments, datasets or tasks
 ```
+- [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
+  - ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Tasks: RLHF, Reasoning tasks including math and code.
 
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
   - OpenRLHF
