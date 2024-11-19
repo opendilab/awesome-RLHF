@@ -79,10 +79,95 @@ format:
 ```
 
 ### 2024
+- [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
+  - Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Code: [Official](https://github.com/volcengine/verl)
+
+- [ALaRM: Align Language Models via Hierarchical Rewards Modeling](https://arxiv.org/abs/2403.06754)
+  - Yuhang Lai, Siyuan Wang, Shujun Liu, Xuanjing Huang, Zhongyu Wei
+  - Keyword: Hierarchical Reward, Open Text Generation Tasks
+  - Code: [Official](https://github.com/halfrot/ALaRM)
+
+- [TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2407.16574)
+  - Eunseop Yoon, Hee Suk Yoon, SooHwan Eom, Gunsoo Han, Daniel Wontae Nam, Daejin Jo, Kyoung-Woon On, Mark A. Hasegawa-Johnson, Sungwoong Kim, Chang D. Yoo
+  - Keyword: Token-Level Continuous Reward, RLHF
+  - Code: [Official]()
+
+- [Aligning Large Multimodal Models with Factually Augmented RLHF](https://arxiv.org/abs/2309.14525)
+  - Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell
+  - Keyword: Factually Augmented RLHF, Vision & Language, Human Preference Dataset
+  - Code: [Official](https://github.com/llava-rlhf/LLaVA-RLHF)
+
+- [Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation](https://arxiv.org/abs/2402.11907)
+  - Aiwei Liu, Haoping Bai, Zhiyun Lu, Xiang Kong, Simon Wang, Jiulong Shan, Meng Cao, Lijie Wen
+  - Keyword: Without Human Preference Data, Self-Reward, DPO
+  - Code: [Official](https://github.com/exlaw/DLMA)
+
+- [Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards](https://arxiv.org/abs/2402.18571)
+  - Haoxiang Wang, Yong Lin, Wei Xiong, Rui Yang, Shizhe Diao, Shuang Qiu, Han Zhao, Tong Zhang
+  - Keyword: User Preference, Multi-objective Reward Model, Rejection Sampling Finetuning
+  - Code: [Official](https://github.com/Haoxiang-Wang/directional-preference-alignment)
+
+- [Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs](https://arxiv.org/abs/2402.14740)
+  - Arash Ahmadian, Chris Cremer, Matthias Gallé, Marzieh Fadaee, Julia Kreutzer, Olivier Pietquin, Ahmet Üstün, Sara Hooker
+  - Keyword: Online RL Optimization, Low Computational Cost
+  - Code: [Official]()
+
+- [Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint](https://arxiv.org/abs/2401.06081)
+  - Zhipeng Chen, Kun Zhou, Wayne Xin Zhao, Junchen Wan, Fuzheng Zhang, Di Zhang, Ji-Rong Wen
+  - Keyword: Token-level Reward, LLM
+  - Code: [Official](https://github.com/RUCAIBox/RLMEC)
+  
+- [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://proceedings.mlr.press/v235/lee24t.html)
+  - Harrison Lee, Samrat Phatale, Hassan Mansoor, Thomas Mesnard, Johan Ferret, Kellie Ren Lu, Colton Bishop, Ethan Hall, Victor Carbune, Abhinav Rastogi, Sushant Prakash
+  - Keyword: RL from AI Feedback
+  - Code: [official]()
+
+- [Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF](https://proceedings.mlr.press/v235/shen24g.html)
+  - Han Shen, Zhuoran Yang, Tianyi Chen
+  - Keyword: Bilevel optimization
+  - Code: [official]()
+
+- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
+  - Alex James Chan, Hao Sun, Samuel Holt, Mihaela Van Der Schaar
+  - Keyword: reward shaping, RLHF
+  - Code: [official]( https://github.com/XanderJC/attention-based-credit)
+
+- [A Minimaximalist Approach to Reinforcement Learning from Human Feedback](https://proceedings.mlr.press/v235/swamy24a.html)
+  - Gokul Swamy, Christoph Dann, Rahul Kidambi, Steven Wu, Alekh Agarwal
+  - Keyword: Minimax Winner, Self-Play Preference Optimization
+  - Code: [official]()
+
+- [Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.html)
+  - Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun, Tat-Seng Chua
+  - Keyword: Multimodal Large Language Models, Hallucination Problem, Reinforcement Learning from Human Feedback
+  - Code: [official](https://github.com/RLHF-V/RLHF-V)
+
+- [RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)
+  - Hanze Dong, Wei Xiong, Bo Pang, Haoxiang Wang, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang
+  - Keyword: Online Iterative RLHF, Preference Modeling, Large Language Models
+  - Code: [official](https://github.com/RLHFlow/Online-RLHF)
+
+- [MaxMin-RLHF: Towards equitable alignment of large language models with diverse human preferences](https://arxiv.org/abs/2402.08925)
+  - Souradip Chakraborty, Jiahao Qiu, Hui Yuan, Alec Koppel, Furong Huang, Dinesh Manocha, Amrit Singh Bedi, Mengdi Wang
+  - Keyword: mixture of preference distributions, MaxMin alignment objective
+  - Code: [official]()
+
+- [Dataset Reset Policy Optimization for RLHF](https://arxiv.org/abs/2404.08495)
+  - Jonathan D. Chang, Wenhao Zhan, Owen Oertell, Kianté Brantley, Dipendra Misra, Jason D. Lee, Wen Sun
+  - Keyword: Dataset Reset Policy Optimization
+  - Code: [official](https://github.com/Cornell-RL/drpo)
+
+- [A Dense Reward View on Aligning Text-to-Image Diffusion with Preference](https://arxiv.org/pdf/2402.08265)
+  - Shentao Yang, Tianqi Chen, Mingyuan Zhou
+  - Keyword: RLHF for Text-to-Image Generation, Dense Reward Improvement of DPO, Efficient Alignment
+  - Code: [official](https://github.com/Shentao-YANG/Dense_Reward_T2I)
+
 - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335)
   - Zixiang Chen, Yihe Deng, Huizhuo Yuan, Kaixuan Ji, Quanquan Gu
   - Keyword: Self-Play Fine-Tuning
-  - Code: [Official](https://github.com/uclaml/SPIN)
+  - Code: [official](https://github.com/uclaml/SPIN)
 
 - [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](https://arxiv.org/abs/2404.08555)
   - Shreyas Chaudhari, Pranjal Aggarwal, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik Narasimhan, Ameet Deshpande, Bruno Castro da Silva
@@ -139,26 +224,53 @@ format:
   - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
   - Keyword: RLHF, Aligning, LLM
 
+- [Parameter Efficient Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2403.10704)
+  - Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Simral Chaudhary, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu, Bowen Li, Saravanan Ganesh, Bill Byrne, Jessica Hoffmann, Hassan Mansoor, Wei Li, Abhinav Rastogi, Lucas Dixon
+  - Keywords: RLHF, Parameter Efficient method, Low Computational Cost, LLM, VLM
+ 
+- [Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble](https://arxiv.org/abs/2401.16635v2)
+  - Shun Zhang, Zhenfang Chen, Sunli Chen, Yikang Shen, Zhiqing Sun, Chuang Gan
+  - Keywords: RLHF, Reward Ensemble, Efficient Ensemble Method
+
 ### 2023
+- [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
+  - Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos
+  - Keywords: RLHF, Pairwise Preference
+
+- [Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)
+  - Zeqiu Wu, Yushi Hu, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A. Smith, Mari Ostendorf, Hannaneh Hajishirzi
+  - Keyword: RLHF, Sentence-level Reward, LLM
+  - Code: [official](https://github.com/allenai/FineGrainedRLHF)
+
+- [Preference-grounded Token-level Guidance for Language Model Fine-tuning](https://proceedings.neurips.cc/paper_files/paper/2023/file/4d4a3b6a34332d80349137bcc98164a5-Paper-Conference.pdf)
+  - Shentao Yang, Shujian Zhang, Congying Xia, Yihao Feng, Caiming Xiong, Mingyuan Zhou
+  - Keyword: RLHF, Token-level Training Guidance, Alternate/Online Training Framework, Minimalist Training Objectives
+  - Code: [official](https://github.com/Shentao-YANG/Preference_Grounded_Guidance)
+
+- [Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems](https://arxiv.org/pdf/2302.10342)
+  - Yihao Feng*, Shentao Yang*, Shujian Zhang, Jianguo Zhang, Caiming Xiong, Mingyuan Zhou, Huan Wang
+  - Keyword: RLHF, Genralized Reward Function Learning, Reward Function Utilization, Task-oriented Dialogue System, Learning-to-rank
+  - Code: [official](https://github.com/Shentao-YANG/Fantastic_Reward_ICLR2023)
+
 - [Inverse Preference Learning: Preference-based RL without a Reward Function](https://arxiv.org/pdf/2305.15363)
   - Joey Hejna, Dorsa Sadigh
   - Keyword: Inverse Preference Learning, without reward model
-  - Code: [Official](https://github.com/jhejna/inverse-preference-learning)
+  - Code: [official](https://github.com/jhejna/inverse-preference-learning)
 
 - [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fc47800ee5b30b8777fdd30abcaaf3b-Paper-Conference.pdf)
   - Yann Dubois, Chen Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy S. Liang, Tatsunori B. Hashimoto
   - Keyword: RLHF, Simulation Framework
-  - Code: [Official](https://github.com/tatsu-lab/alpaca_farm)
+  - Code: [official](https://github.com/tatsu-lab/alpaca_farm)
 
 - [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492)
   - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang
   - Keyword: Preference Ranking Optimization
-  - Code: [Official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
+  - Code: [official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
 
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
   - Keyword: RLHF, GAN, Adversarial Games
-  - Code: [Official](https://github.com/Linear95/APO)
+  - Code: [official](https://github.com/Linear95/APO)
 
 - [Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint](https://arxiv.org/abs/2312.11456)
   - Wei Xiong, Hanze Dong, Chenlu Ye, Ziqi Wang, Han Zhong, Heng Ji, Nan Jiang, Tong Zhang
@@ -406,9 +518,13 @@ format:
   - keyword
   - experiment environments, datasets or tasks
 ```
+- [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
+  - ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Tasks: RLHF, Reasoning tasks including math and code.
 
-- [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)
-  - OpenLLMAI
+- [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+  - OpenRLHF
   - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
   - Task: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
@@ -531,6 +647,7 @@ format:
 - [YouTube] [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 - [OpenAI / Arize] [OpenAI on Reinforcement Learning With Human Feedback](https://arize.com/blog/openai-on-rlhf/)
 - [Encord] [Guide to Reinforcement Learning from Human Feedback (RLHF) for Computer Vision](https://encord.com/blog/guide-to-rlhf/)
+- [Weixun Wang] [Overview of RL(HF)+LLM](https://github.com/wwxFromTju/wwxFromTju.github.io/blob/master/slide/RL(HF)%2BLLM%E7%9A%84%E7%89%87%E9%9D%A2%E8%84%89%E7%BB%9C.JPG)
 
 
 ## Other Language Support
