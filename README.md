@@ -79,6 +79,11 @@ format:
 ```
 
 ### 2024
+- [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
+  - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
+  - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
+  - Code: [Official](https://github.com/LoveCatc/OrdinalRewardModeling)
+
 - [Aligning Few-Step Diffusion Models with Dense Reward Difference Learning](https://arxiv.org/abs/2411.11727)
   - Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, Miaojing Shi, Bo Du, Dacheng Tao
   - Keyword: Diffusion Models, Text-to-Image, Alignment, Reinforcement Learning
