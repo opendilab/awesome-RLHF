@@ -84,6 +84,11 @@ format:
   - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
   - Code: [Official](https://github.com/LoveCatc/OrdinalRewardModeling)
 
+- [Aligning Few-Step Diffusion Models with Dense Reward Difference Learning](https://arxiv.org/abs/2411.11727)
+  - Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, Miaojing Shi, Bo Du, Dacheng Tao
+  - Keyword: Diffusion Models, Text-to-Image, Alignment, Reinforcement Learning
+  - Code: [Official](https://github.com/ZiyiZhang27/sdpo)
+
 - [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
   - Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   - Keyword: Flexible, Efficient, RLHF framework
