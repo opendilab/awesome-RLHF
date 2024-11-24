@@ -79,6 +79,11 @@ format:
 ```
 
 ### 2024
+- [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
+  - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
+  - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
+  - Code: [Official](https://github.com/LoveCatc/OrdinalRewardModeling)
+
 - [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
   - Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   - Keyword: Flexible, Efficient, RLHF framework
