@@ -225,12 +225,12 @@ format:
   - Keyword: Reinforcement learning; Diffusion models; RLHF; Preference aligning
   - Code: [official](https://aligndiff.github.io/)
 
-- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://browse.arxiv.org/pdf/2402.00782)
+- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2402.00782)
   - Alex J. Chan, Hao Sun, Samuel Holt, Mihaela van der Schaar
   - Keyword: RLHF
   - Code: [official](https://github.com/XanderJC/attention-based-credit)
 
-- [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/abs/2402.00742)
+- [Transforming and Combining Rewards for Aligning Large Language Models](https://arxiv.org/abs/2402.00742)
   - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
   - Keyword: RLHF, Aligning, LLM
 
