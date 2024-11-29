@@ -68,6 +68,8 @@ Here are some examples of Reinforcement Learning with Human Feedback (RLHF):
 
 ## Papers
 
+You can also [visit this link](https://codekidz.ai/lesson-intro/awesome-rlhf-367190) to get an AI-enhanced paper reading experience.
+
 ```
 format:
 - [title](paper link) [links]
