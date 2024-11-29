@@ -591,6 +591,10 @@ format:
   - Xuehai Pan, Ruiyang Sun, Jiaming Ji, et al.
   - Keyword: Support popular pre-trained models, Large human-labeled dataset, Multi-scale metrics for safety constraints verification, Customized parameters
   - Task: Constrained Value-Aligned LLM via Safe RLHF
+- [VinePPO](https://github.com/McGill-NLP/VinePPO)
+  - Amirhossein Kazemnejad, Milad Aghajohari, et al.
+  - Keyword: Performant Implementation of RL algorithms for Reasoning, PPO, DPO, RestEM, Monte Carlo Value Estimation 
+  - Task: Reasoning tasks including MATH and GSM8K
 
 ## Dataset
 ```
