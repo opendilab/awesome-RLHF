@@ -80,6 +80,12 @@ format:
   - experiment environments and datasets
 ```
 
+### 2025
+- [Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model](https://arxiv.org/abs/2501.02790)
+  - Yueqin Yin, Shentao Yang, Yujia Xie, Ziyi Yang, Yuting Sun, Hany Awadalla, Weizhu Chen, and Mingyuan Zhou
+  - Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
+  - Code: [Official](https://github.com/yinyueqin/DenseRewardRLHF-PPO)
+
 ### 2024
 - [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
   - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
