@@ -81,14 +81,12 @@ format:
 ```
 
 ### 2025
-
 - [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
   - Jian Hu
   - Keyword: Efficient, Alignment, Reinforcement Learning
   - Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh)
 
 ### 2024
-
 - [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
   - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
   - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
