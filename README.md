@@ -81,6 +81,11 @@ format:
 ```
 
 ### 2025
+- [Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model](https://arxiv.org/abs/2501.02790)
+  - Yueqin Yin, Shentao Yang, Yujia Xie, Ziyi Yang, Yuting Sun, Hany Awadalla, Weizhu Chen, and Mingyuan Zhou
+  - Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
+  - Code: [Official](https://github.com/yinyueqin/DenseRewardRLHF-PPO)
+
 - [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
   - Jian Hu
   - Keyword: Efficient, Alignment, Reinforcement Learning
