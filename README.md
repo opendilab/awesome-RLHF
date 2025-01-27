@@ -14,6 +14,7 @@ Welcome to follow and star!
   - [Overview of RLHF](#overview-of-rlhf)
     - [Detailed Explanation](#detailed-explanation)
   - [Papers](#papers)
+    - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
