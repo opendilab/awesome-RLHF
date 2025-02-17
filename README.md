@@ -93,6 +93,24 @@ format:
   - Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh)
 
 ### 2024
+- [REvolve: Reward Evolution with Large Language Models using Human Feedback](https://arxiv.org/abs/2406.01309)
+  - Rishi Hazra, Alkis Sygkounas, Andreas Persson, Amy Loutfi, Pedro Zuidberg Dos Martires
+  - Keyword: Improved Reward Model with LLMs, Framework
+  - Code: [Official](https://github.com/RishiHazra/Revolve)
+
+- [Zeroth-Order Policy Gradient for Reinforcement Learning from Human Feedback without Reward Inference](https://arxiv.org/abs/2409.17401)
+  - Qining Zhang, Lei Ying
+  - Keyword: Reward inference-free RLHF, Zeroth-order optimization, Policy gradient
+
+- [Learning Reward and Policy Jointly from Demonstration and Preference Improves Alignment](https://arxiv.org/abs/2406.06874)
+  - Chenliang Li, Siliang Zeng, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong
+  - Keyword: Joint Reward and Policy, Efficiency, Framework
+
+- [MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions](https://arxiv.org/abs/2410.02743)
+  - Yekun Chai, Haoran Sun, Huang Fang, Shuohuan Wang, Yu Sun, Hua Wu
+  - Keyword: Macro action-level Reward, Efficiency, Framework
+  - Code: [Official](https://github.com/ernie-research/MA-RLHF)
+
 - [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
   - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
   - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
