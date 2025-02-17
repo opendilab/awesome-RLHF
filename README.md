@@ -14,6 +14,7 @@ Welcome to follow and star!
   - [Overview of RLHF](#overview-of-rlhf)
     - [Detailed Explanation](#detailed-explanation)
   - [Papers](#papers)
+    - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
@@ -68,6 +69,8 @@ Here are some examples of Reinforcement Learning with Human Feedback (RLHF):
 
 ## Papers
 
+You can also [visit this link](https://codekidz.ai/lesson-intro/awesome-rlhf-367190) to get an AI-enhanced paper reading experience.
+
 ```
 format:
 - [title](paper link) [links]
@@ -78,7 +81,33 @@ format:
   - experiment environments and datasets
 ```
 
+### 2025
+- [Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model](https://arxiv.org/abs/2501.02790)
+  - Yueqin Yin, Shentao Yang, Yujia Xie, Ziyi Yang, Yuting Sun, Hany Awadalla, Weizhu Chen, and Mingyuan Zhou
+  - Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
+  - Code: [Official](https://github.com/yinyueqin/DenseRewardRLHF-PPO)
+
+- [REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/abs/2501.03262)
+  - Jian Hu
+  - Keyword: Efficient, Alignment, Reinforcement Learning
+  - Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh)
+
 ### 2024
+- [Reward Modeling with Ordinal Feedback: Wisdom of the Crowd](https://arxiv.org/abs/2411.12843)
+  - Shang Liu, Yu Pan, Guanting Chen, and Xiaocheng Li
+  - Keyword: Reward Modeling, Ordinal Feedback, Human Preference Dataset
+  - Code: [Official](https://github.com/LoveCatc/OrdinalRewardModeling)
+
+- [Aligning Few-Step Diffusion Models with Dense Reward Difference Learning](https://arxiv.org/abs/2411.11727)
+  - Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, Miaojing Shi, Bo Du, Dacheng Tao
+  - Keyword: Diffusion Models, Text-to-Image, Alignment, Reinforcement Learning
+  - Code: [Official](https://github.com/ZiyiZhang27/sdpo)
+
+- [HybridFlow: A Flexible and Efficient RLHF Framework](https://arxiv.org/pdf/2409.19256v2)
+  - Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Code: [Official](https://github.com/volcengine/verl)
+
 - [ALaRM: Align Language Models via Hierarchical Rewards Modeling](https://arxiv.org/abs/2403.06754)
   - Yuhang Lai, Siyuan Wang, Shujun Liu, Xuanjing Huang, Zhongyu Wei
   - Keyword: Hierarchical Reward, Open Text Generation Tasks
@@ -210,12 +239,12 @@ format:
   - Keyword: Reinforcement learning; Diffusion models; RLHF; Preference aligning
   - Code: [official](https://aligndiff.github.io/)
 
-- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://browse.arxiv.org/pdf/2402.00782)
+- [Dense Reward for Free in Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2402.00782)
   - Alex J. Chan, Hao Sun, Samuel Holt, Mihaela van der Schaar
   - Keyword: RLHF
   - Code: [official](https://github.com/XanderJC/attention-based-credit)
 
-- [Transforming and Combining Rewards for Aligning Large Language Models](https://browse.arxiv.org/abs/2402.00742)
+- [Transforming and Combining Rewards for Aligning Large Language Models](https://arxiv.org/abs/2402.00742)
   - Zihao Wang, Chirag Nagpal, Jonathan Berant, Jacob Eisenstein, Alex D'Amour, Sanmi Koyejo, Victor Veitch
   - Keyword: RLHF, Aligning, LLM
 
@@ -513,6 +542,10 @@ format:
   - keyword
   - experiment environments, datasets or tasks
 ```
+- [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
+  - ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
+  - Keyword: Flexible, Efficient, RLHF framework
+  - Tasks: RLHF, Reasoning tasks including math and code.
 
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
   - OpenRLHF
@@ -570,6 +603,10 @@ format:
   - Xuehai Pan, Ruiyang Sun, Jiaming Ji, et al.
   - Keyword: Support popular pre-trained models, Large human-labeled dataset, Multi-scale metrics for safety constraints verification, Customized parameters
   - Task: Constrained Value-Aligned LLM via Safe RLHF
+- [VinePPO](https://github.com/McGill-NLP/VinePPO)
+  - Amirhossein Kazemnejad, Milad Aghajohari, et al.
+  - Keyword: Performant Implementation of RL algorithms for Reasoning, PPO, DPO, RestEM, Monte Carlo Value Estimation 
+  - Task: Reasoning tasks including MATH and GSM8K
 
 ## Dataset
 ```
@@ -638,7 +675,9 @@ format:
 - [YouTube] [John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges](https://www.youtube.com/watch?v=hhiLw5Q_UFg)
 - [OpenAI / Arize] [OpenAI on Reinforcement Learning With Human Feedback](https://arize.com/blog/openai-on-rlhf/)
 - [Encord] [Guide to Reinforcement Learning from Human Feedback (RLHF) for Computer Vision](https://encord.com/blog/guide-to-rlhf/)
+- [hijkzzz] [A Survey of Reinforcement Learning from Human Feedback (RLHF)](https://hijkzzz.notion.site/a-survey-of-rlhf)
 - [Weixun Wang] [Overview of RL(HF)+LLM](https://github.com/wwxFromTju/wwxFromTju.github.io/blob/master/slide/RL(HF)%2BLLM%E7%9A%84%E7%89%87%E9%9D%A2%E8%84%89%E7%BB%9C.JPG)
+- [Lilian Weng] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 
 
 ## Other Language Support
