@@ -82,6 +82,11 @@ format:
 ```
 
 ### 2025
+- [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/abs/2502.10391)
+  - Yi-Fan Zhang, Tao Yu, Haochen Tian, Chaoyou Fu, Peiyan Li, Jianshu Zeng, Wulin Xie, Yang Shi, Huanyu Zhang, Junkang Wu, Xue Wang, Yibo Hu, Bin Wen, Fan Yang, Zhang Zhang, Tingting Gao, Di Zhang, Liang Wang, Rong Jin, Tieniu Tan
+  - Keyword: Critique-based Reward Model, Dynamic Reward, Dataset
+  - Code: [Official](https://github.com/Kwai-YuanQi/MM-RLHF)
+ 
 - [Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model](https://arxiv.org/abs/2501.02790)
   - Yueqin Yin, Shentao Yang, Yujia Xie, Ziyi Yang, Yuting Sun, Hany Awadalla, Weizhu Chen, and Mingyuan Zhou
   - Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
