@@ -110,6 +110,11 @@ format:
   - Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh)
 
 ### 2024
+- [The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models](https://aclanthology.org/2024.emnlp-main.174/)
+  - Yanjun Chen, Dawei Zhu, Yirong Sun, Xinghao Chen, Wei Zhang, Xiaoyu Shen
+  - Keyword: Reward Model Evaluation, Accuracy Paradox, LLM Alignment
+  - Code: [Official](https://github.com/EIT-NLP/AccuracyParadox-RLHF)
+
 - [Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback](https://arxiv.org/abs/2412.15838)
   - Jiaming Ji, Jiayi Zhou, Hantao Lou, Boyuan Chen, Donghai Hong, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang
   - Keyword: Multi-modality Alignment, Dataset, Training-evaluation Framework
@@ -297,6 +302,11 @@ format:
   - Keywords: RLHF, Reward Ensemble, Efficient Ensemble Method
 
 ### 2023
+- [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155)
+  - Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu
+  - Keyword: Reward model, RLHF, Reward hacking
+  - Code: [official](https://github.com/shadowkiller33/Contrast-Instruction)
+
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
   - Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos
   - Keywords: RLHF, Pairwise Preference
