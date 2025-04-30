@@ -82,6 +82,23 @@ format:
 ```
 
 ### 2025
+- [A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization](https://arxiv.org/abs/2504.04950)
+  - Wenyuan Xu, Xiaochen Zuo, Chao Xin, Yu Yue, Lin Yan, Yonghui Wu
+  - Keyword: Generative Pairwise Reward Model, Policy Optimization, Framework
+
+- [Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2503.22230)
+  - Wei Shen, Guanlin Liu, Zheng Wu, Ruofei Zhu, Qingping Yang, Chao Xin, Yu Yue, Lin Yan
+  - Keyword: Data Scaling, Reward Hacking, LLMs
+
+- [Equilibrate RLHF: Towards Balancing Helpfulness-Safety Trade-off in Large Language Models](https://arxiv.org/abs/2502.11555)
+  - Yingshui Tan, Yilei Jiang, Yanshi Li, Jiaheng Liu, Xingyuan Bu, Wenbo Su, Xiangyu Yue, Xiaoyong Zhu, Bo Zheng
+  - Keyword: Safety, Framework, Adaptive Message-wise Alignment Method, LLMs
+
+- [MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](https://arxiv.org/abs/2502.10391)
+  - Yi-Fan Zhang, Tao Yu, Haochen Tian, Chaoyou Fu, Peiyan Li, Jianshu Zeng, Wulin Xie, Yang Shi, Huanyu Zhang, Junkang Wu, Xue Wang, Yibo Hu, Bin Wen, Fan Yang, Zhang Zhang, Tingting Gao, Di Zhang, Liang Wang, Rong Jin, Tieniu Tan
+  - Keyword: Critique-based Reward Model, Dynamic Reward, Dataset
+  - Code: [Official](https://github.com/Kwai-YuanQi/MM-RLHF)
+ 
 - [Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model](https://arxiv.org/abs/2501.02790)
   - Yueqin Yin, Shentao Yang, Yujia Xie, Ziyi Yang, Yuting Sun, Hany Awadalla, Weizhu Chen, and Mingyuan Zhou
   - Keyword: Segment-level Reward Model, Dense Reward RLHF Framework, Improved PPO training for LLMs
@@ -93,6 +110,11 @@ format:
   - Code: [Official](https://github.com/OpenRLHF/OpenRLHF/blob/main/examples/scripts/train_reinforce_llama_ray.sh)
 
 ### 2024
+- [The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models](https://aclanthology.org/2024.emnlp-main.174/)
+  - Yanjun Chen, Dawei Zhu, Yirong Sun, Xinghao Chen, Wei Zhang, Xiaoyu Shen
+  - Keyword: Reward Model Evaluation, Accuracy Paradox, LLM Alignment
+  - Code: [Official](https://github.com/EIT-NLP/AccuracyParadox-RLHF)
+
 - [Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback](https://arxiv.org/abs/2412.15838)
   - Jiaming Ji, Jiayi Zhou, Hantao Lou, Boyuan Chen, Donghai Hong, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang
   - Keyword: Multi-modality Alignment, Dataset, Training-evaluation Framework
@@ -280,6 +302,11 @@ format:
   - Keywords: RLHF, Reward Ensemble, Efficient Ensemble Method
 
 ### 2023
+- [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155)
+  - Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu
+  - Keyword: Reward model, RLHF, Reward hacking
+  - Code: [official](https://github.com/shadowkiller33/Contrast-Instruction)
+
 - [A General Theoretical Paradigm to Understand Learning from Human Preferences](https://arxiv.org/abs/2310.12036)
   - Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos
   - Keywords: RLHF, Pairwise Preference
