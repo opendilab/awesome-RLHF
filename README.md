@@ -82,6 +82,10 @@ format:
 ```
 
 ### 2025
+- [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/pdf/2503.00897)
+- Shashank Gupta, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla.
+- Keyworks: Diffusion Model, REINFORCE, PPO
+
 - [A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization](https://arxiv.org/abs/2504.04950)
   - Wenyuan Xu, Xiaochen Zuo, Chao Xin, Yu Yue, Lin Yan, Yonghui Wu
   - Keyword: Generative Pairwise Reward Model, Policy Optimization, Framework
