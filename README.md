@@ -23,6 +23,7 @@ Welcome to follow and star!
   - [Codebases](#codebases)
   - [Dataset](#dataset)
   - [Blogs](#blogs)
+  - [Books](#books)
   - [Other Language Support](#other-language-support)
   - [Contributing](#contributing)
   - [License](#license)
@@ -729,6 +730,9 @@ format:
 - [Weixun Wang] [Overview of RL(HF)+LLM](https://github.com/wwxFromTju/wwxFromTju.github.io/blob/master/slide/RL(HF)%2BLLM%E7%9A%84%E7%89%87%E9%9D%A2%E8%84%89%E7%BB%9C.JPG)
 - [Lilian Weng] [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 
+
+## Books
+- [Reinforcement Learning from Human Feedback by Nathan Lambert](https://rlhfbook.com/)
 
 ## Other Language Support
 
