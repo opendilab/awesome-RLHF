@@ -83,6 +83,10 @@ format:
 ```
 
 ### 2025
+- [Differential Information: An Information-Theoretic Perspective on Preference Optimization](https://arxiv.org/abs/2505.23761)
+  - Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
+  - Keyword: Preference Optimization, Information-Theoretic Analysis, Log-Ratio Reward Parameterization, Data Distribution, Log-Likelihood Displacement
+
 - [A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization](https://arxiv.org/abs/2504.04950)
   - Wenyuan Xu, Xiaochen Zuo, Chao Xin, Yu Yue, Lin Yan, Yonghui Wu
   - Keyword: Generative Pairwise Reward Model, Policy Optimization, Framework
