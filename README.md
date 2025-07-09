@@ -609,6 +609,7 @@ format:
   - Keyword: Decision is influenced by current policy rather than human feedback, Learn from policy dependent feedback that converges to a local optimal
 
 ## Codebases
+
 ```
 format:
 - [title](codebase link) [links]
@@ -616,11 +617,17 @@ format:
   - keyword
   - experiment environments, datasets or tasks
 ```
+
+- [Reinforcement Learning from Human Feedback (RLHF) in Notebooks](https://github.com/ash80/RLHF_in_notebooks)
+  - Ashwani Kumar
+  - step-by-step, Video tutorial, Jupyter notebooks, GPT-2, Reward Model, PPO, Pedagogical
+  - Dataset: [stanfordnlp/sst2](https://huggingface.co/datasets/stanfordnlp/sst2)
+  - Task: Generating text with positive sentiment
+  - Env: Google Colab
 - [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
   - ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   - Keyword: Flexible, Efficient, RLHF framework
   - Tasks: RLHF, Reasoning tasks including math and code.
-
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
   - OpenRLHF
   - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
