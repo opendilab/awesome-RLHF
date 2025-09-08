@@ -330,6 +330,17 @@ format:
 - [Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble](https://arxiv.org/abs/2401.16635v2)
   - Shun Zhang, Zhenfang Chen, Sunli Chen, Yikang Shen, Zhiqing Sun, Chuang Gan
   - Keywords: RLHF, Reward Ensemble, Efficient Ensemble Method
+  
+- [RIME: Robust Preference-based Reinforcement Learning with Noisy Human Preferences](https://arxiv.org/abs/2402.17257)
+  - Jie Cheng, Gang Xiong, Xingyuan Dai, Qinghai Miao, Yisheng Lv, Fei-Yue Wang
+  - Keyword: 
+  - Code: [official](https://github.com/CJReinforce/RIME_ICML2024)
+  
+- [Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback](https://arxiv.org/abs/2402.02423)
+  - Yifu Yuan, Jianye Hao, Yi Ma, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng
+  - Keyword: 
+  - Code: [official](https://github.com/pickxiguapi/Uni-RLHF-Platform)
+  - Dataset: [official](https://uni-rlhf.github.io/)
 
 ### 2023
 - [The Trickle-down Impact of Reward (In-)consistency on RLHF](https://arxiv.org/abs/2309.16155)
@@ -365,11 +376,6 @@ format:
   - Yann Dubois, Chen Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy S. Liang, Tatsunori B. Hashimoto
   - Keyword: RLHF, Simulation Framework
   - Code: [official](https://github.com/tatsu-lab/alpaca_farm)
-
-- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492)
-  - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang
-  - Keyword: Preference Ranking Optimization
-  - Code: [official](github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
 
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
@@ -441,7 +447,7 @@ format:
   - Jian Hu, Li Tao, June Yang, Chandler Zhou
   - Keyword: Decision Transformer-based Alignment, Offline Reinforcement Learning, RLHF System
 
-- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492.pdf)
+- [Preference Ranking Optimization for Human Alignment](https://arxiv.org/pdf/2306.17492)
   - Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li and Houfeng Wang
   - Keyword: Supervised Human Preference Alignment, Preference Ranking Extension
   - Code: [official](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)
