@@ -565,6 +565,13 @@ format:
   - Joseph Early, Tom Bewley, Christine Evers, Sarvapali Ramchurn
   - Keyword: Reward Modelling (RLHF), Non-Markovian, Multiple Instance Learning, Interpretability
   - Code: [official](https://github.com/JAEarly/MIL-for-Non-Markovian-Reward-Modelling)
+- [SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2203.10050)
+  - Jongjin Park, Younggyo Seo, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee
+  - Keyword: Semi-supervised Reward Learning, Preference Data Augmentation, RLHF Efficiency
+- [Reward Uncertainty for Exploration in Preference-based Reinforcement Learning](https://arxiv.org/abs/2205.12401)
+  - Xinran Liang, Katherine Shu, Kimin Lee, Pieter Abbeel
+  - Keyword: Preference-based RL (PbRL), Exploration, Reward Uncertainty, Feedback Efficiency
+  - Code: [official](https://github.com/rll-research/rune)
 
 ### 2021
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) (WebGPT)
@@ -580,6 +587,14 @@ format:
   - Keyword:  The success of policy gradient is because of reward rather than the shape of output distribution, Machine Translation, NMT, DOmain Adaption
   - Code: [official](https://github.com/samuki/reinforce-joey)
   - Dataset: [WMT15](https://www.statmt.org/wmt15/index.html), [IWSLT14](https://sites.google.com/site/iwsltevaluation2014/mt-track)
+- [PEBBLE: Feedback-Efficient Interactive Reinforcement Learning via Relabeling Experience and Unsupervised Pre-training](https://arxiv.org/abs/2106.05091)
+  - Kimin Lee, Laura Smith, Pieter Abbeel
+  - Keyword: Preference-based RL (PbRL), Data Efficiency, Unsupervised Pretraining, Reward Relabeling
+  - Code: [official](https://github.com/rll-research/BPref)
+- [B-Pref: Benchmarking Preference-Based Reinforcement Learning](https://arxiv.org/abs/2111.03026)
+  - Kimin Lee, Laura Smith, Anca Dragan, Pieter Abbeel
+  - Keyword: Benchmark, Preference-based RL, Simulated Human Feedback, Robustness Evaluation
+  - Code: [official](https://github.com/rll-research/BPref)
 
 ### 2020 and before
 
