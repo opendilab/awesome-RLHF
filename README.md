@@ -84,6 +84,10 @@ format:
 
 ### 2025
 
+- [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/pdf/2503.00897)
+  - Shashank Gupta, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla.
+  - Keyworks: Diffusion Model, REINFORCE, PPO
+
 - [Differential Information: An Information-Theoretic Perspective on Preference Optimization](https://arxiv.org/abs/2505.23761)
   - Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
   - Keyword: Preference Optimization, Information-Theoretic Analysis, Log-Ratio Reward Parameterization, Data Distribution, Log-Likelihood Displacement
@@ -91,7 +95,6 @@ format:
 - [Generalist Reward Models: Found Inside Large Language Models](https://arxiv.org/abs/2506.23235)
   - Yi-Chen Li, Tian Xu, Yang Yu, Xuqin Zhang, Xiong-Hui Chen, Zhongxiang Ling, Ningjing Chao, Lei Yuan, Zhi-Hua Zhou
   - Keyword: Offline Inverse RL, LLM-as-a-judge, Training-free, Alignment
-
 
 - [A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization](https://arxiv.org/abs/2504.04950)
   - Wenyuan Xu, Xiaochen Zuo, Chao Xin, Yu Yue, Lin Yan, Yonghui Wu
