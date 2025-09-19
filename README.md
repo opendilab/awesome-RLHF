@@ -793,6 +793,7 @@ format:
 
 ## Books
 - [Reinforcement Learning from Human Feedback by Nathan Lambert](https://rlhfbook.com/)
+- [Reinforcement Learning for Business](https://www.manning.com/books/reinforcement-learning-for-business)
 
 ## Other Language Support
 
