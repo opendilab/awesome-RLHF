@@ -84,9 +84,31 @@ format:
 
 ### 2025
 
-- [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/pdf/2503.00897)
-  - Shashank Gupta, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla.
-  - Keyworks: Diffusion Model, REINFORCE, PPO
+- [Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma](https://arxiv.org/abs/2511.19504)
+  - Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary
+  - Keyword: Alignment Bias, Safety, Interpretability
+ 
+- [What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data](https://arxiv.org/abs/2510.26202)
+  - Rajiv Movva, Smitha Milli, Sewon Min, Emma Pierson
+  - Keyword: Sparse Autoencoders, Interpretable Data Curation, Reward Hacking, Feature Attribution
+  - Code: [Official](https://github.com/rmovva/wimhf)
+
+- [Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2509.22633)
+  - Gen Li, Yuling Yan
+  - Keyword: Online RL, Multi-armed Bandit, LLMs
+
+- [OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework](https://aclanthology.org/2025.emnlp-demos.48/)
+  - Jian Hu, Xibin Wu, Wei Shen, Jason Klein Liu, Weixun Wang, Songlin Jiang, Haoran Wang, Hao Chen, Bin Chen, Wenkai Fang, Xianyu, Yu Cao, Haotian Xu, Yiming Liu
+  - Keyword: Framework
+  - Code: [Official](https://github.com/OpenRLHF/OpenRLHF)
+ 
+- [Language Models Learn to Mislead Humans via RLHF](https://arxiv.org/abs/2503.00897)
+  - Jiaxin Wen, Ruiqi Zhong, Akbir Khan, Ethan Perez, Jacob Steinhardt, Minlie Huang, Sam Bowman, He He, Shi Feng
+  - Keyword: Open-ended Task, Human Reward, Alignment Method, LLMs
+
+- [A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning](https://arxiv.org/abs/2503.00897)
+  - Shashank Gupta, Chaitanya Ahuja, Tsung-Yu Lin, Sreya Dutta Roy, Harrie Oosterhuis, Maarten de Rijke, and Satya Narayan Shukla
+  - Keyword: Diffusion Model, REINFORCE, PPO
 
 - [Differential Information: An Information-Theoretic Perspective on Preference Optimization](https://arxiv.org/abs/2505.23761)
   - Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
