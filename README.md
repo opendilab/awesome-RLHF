@@ -168,7 +168,7 @@ format:
 - [The Accuracy Paradox in RLHF: When Better Reward Models Don't Yield Better Language Models](https://aclanthology.org/2024.emnlp-main.174/)
   - Yanjun Chen, Dawei Zhu, Yirong Sun, Xinghao Chen, Wei Zhang, Xiaoyu Shen
   - Keyword: Reward Model Evaluation, Accuracy Paradox, LLM Alignment
-  - Code: [Official](https://github.com/EIT-NLP/AccuracyParadox-RLHF)
+  - Code: [Official](https://github.com/Battam1111/AccuracyParadox-RLHF)
 
 - [Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback](https://arxiv.org/abs/2412.15838)
   - Jiaming Ji, Jiayi Zhou, Hantao Lou, Boyuan Chen, Donghai Hong, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang
