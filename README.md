@@ -684,6 +684,10 @@ format:
   - OpenRLHF
   - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
   - Task: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
+- [Potato](https://github.com/davidjurgens/potato)
+  - David Jurgens et al.
+  - Keyword: Annotation, Human Evaluation, Quality Control, AI-Assisted Labeling
+  - Task: Portable annotation platform for human evaluation and feedback collection with 20+ annotation types and agent trace evaluation
 - [PaLM + RLHF - Pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
   - Phil Wang, Yachine Zahidi, Ikko Eltociear Ashimine, Eric Alcaide
   - Keyword: Transformers, PaLM architecture
