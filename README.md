@@ -817,6 +817,7 @@ format:
 - [Reinforcement Learning from Human Feedback by Nathan Lambert](https://rlhfbook.com/)
 - [Reinforcement Learning for Business](https://www.manning.com/books/reinforcement-learning-for-business)
 - [The RLHF Book](https://www.manning.com/books/the-rlhf-book)
+- [Evaluation and Alignment, The Seminal Papers](https://www.manning.com/books/evaluation-and-alignment-the-seminal-papers)
 
 ## Other Language Support
 
