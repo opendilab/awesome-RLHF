@@ -316,6 +316,11 @@ format:
   - Keyword: Multi-objective RLHF without reward modeling, DPO
   - Code: [official](https://github.com/ZHZisZZ/modpo/)
   
+- [Internal Safety Collapse in Frontier Large Language Models](https://arxiv.org/abs/2603.23509)
+  - Yutao Wu, Jie Zhang, Tianwei Zhang, Xingjun Ma
+  - Keyword: Alignment failure, Safety collapse, Task completion overrides safety, Black-box jailbreak
+  - Code: [official](https://github.com/wuyoscar/ISC-Bench)
+
 - [Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!](https://arxiv.org/pdf/2402.12343.pdf)
   - Zhanhui Zhou, Jie Liu, Zhichen Dong, Jiaheng Liu, Chao Yang, Wanli Ouyang, Yu Qiao
   - Keyword: LLM inference-time attack, DPO, Producing harmful LLMs without training
