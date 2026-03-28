@@ -84,6 +84,10 @@ format:
 
 ### 2025
 
+- [LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard](https://arxiv.org/abs/2504.13125)
+  - Varun Rao, Youran Sun, Mahendra Kumar, Tejas Mutneja, Agastya Mukherjee, Haizhao Yang
+  - Keyword: Financial NLP, DPO, Reinforcement Learning, Synthetic CoT, LoRA, Fine-Tuning
+
 - [Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma](https://arxiv.org/abs/2511.19504)
   - Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary
   - Keyword: Alignment Bias, Safety, Interpretability
