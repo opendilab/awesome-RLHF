@@ -541,6 +541,12 @@ format:
   - Keyword: Reward Model, Preference, LLM, Optimization, Reinforcement Learning
 ### 2025
 
+- [Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance](https://arxiv.org/pdf/2512.23461)
+  - Alibaba
+  - Zhuo Li, Pengyu Cheng, Zhechao Yu, Feifei Tong, Anningzhe Gao, Tsung-Hui Chang, Xiang Wan, Erchao Zhao, Xiaoxi Jiang, Guanjun Jiang
+  - Keyword: Debiased Reward Model, Reward Hacking, RLHF, Mutual Information
+  - Code: [Official](https://github.com/Qwen-Applications/DIR)
+    
 - [Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma](https://arxiv.org/abs/2511.19504)
   - Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary
   - Keyword: Alignment Bias, Safety, Interpretability
