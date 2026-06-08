@@ -1201,6 +1201,10 @@ format:
   - Amirhossein Kazemnejad, Milad Aghajohari, et al.
   - Keyword: Performant Implementation of RL algorithms for Reasoning, PPO, DPO, RestEM, Monte Carlo Value Estimation 
   - Task: Reasoning tasks including MATH and GSM8K
+- [TWZRD Agent Intel](https://intel.twzrd.xyz)
+  - TWZRD
+  - Keyword: Agent Identity, Trust Scoring, MCP Server, Solana, x402, Multi-agent, Fine-tuning Pipelines
+  - Task: Verify AI agent wallet identity and trust scores before granting access to paid APIs; useful in multi-agent RLHF pipelines to authenticate which agents are consuming reward signals or making micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Dataset
 ```
