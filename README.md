@@ -1137,6 +1137,11 @@ format:
   - ByteDance Seed MLSys Team & HKU: Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, Chuan Wu
   - Keyword: Flexible, Efficient, RLHF framework
   - Tasks: RLHF, Reasoning tasks including math and code.
+- [VeRL-Omni](https://github.com/verl-project/verl-omni)
+  - Yongxiang Huang and Cheung Kawai and Jingan Zhou and Yingshu Chen and openYuanrong Team and Xibin Wu
+  - Keyword: Multimodal RL, Diffusion, Flow Matching, Omni-modality
+  - Tasks: RL post-training for diffusion image/video models and omni-modality models (built on verl)
+  - Docs: [website](https://verl-omni.readthedocs.io/en/latest/index.html)
 - [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
   - OpenRLHF
   - Keyword: 70B, RLHF, DeepSpeed, Ray, vLLM
