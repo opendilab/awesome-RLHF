@@ -1201,6 +1201,10 @@ format:
   - Amirhossein Kazemnejad, Milad Aghajohari, et al.
   - Keyword: Performant Implementation of RL algorithms for Reasoning, PPO, DPO, RestEM, Monte Carlo Value Estimation 
   - Task: Reasoning tasks including MATH and GSM8K
+- [polgrad](https://github.com/SaifPunjwani/polgrad)
+  - Saif Punjwani
+  - Keyword: Reference loss semantics, Conformance testing, PPO, GRPO, Dr.GRPO, DAPO, GSPO, CISPO, RLOO, REINFORCE++, KL estimators, Training-pathology diagnostics
+  - Task: Framework-neutral PyTorch reference for LLM policy-gradient post-training losses, conformance-tested against verl and OpenRLHF
 
 ## Dataset
 ```
