@@ -108,6 +108,11 @@ format:
   - YiFan Zhang, Haihua Yang, Huanyu Zhang, Yang Shi, Zezhou Chen, Haochen Tian, Chaoyou Fu, Kai WU, Bo Cui, Xu Wang, Jianfei Pan, Haotian Wang, Zhang Zhang, Liang Wang
   - Keyword: RLHF, Reward Model, Preference, Multimodal, LLM
 
+- [RewardHarness: Self-Evolving Agentic Post-Training](https://arxiv.org/abs/2605.08703)
+  - Yuxuan Zhang, Penghui Du, Bo Li, Cong Wei, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Ping Nie, Wenhu Chen, Changqian Yu, Kelsey R. Allen
+  - Keyword: RLHF, Reward Model, Preference, Multimodal, Reinforcement Learning
+  - Code: [Official](https://github.com/TIGER-AI-Lab/RewardHarness)
+
 - [The Alignment Auditor: A Bayesian Framework for Verifying and Refining LLM Objectives](https://openreview.net/pdf?id=CH7TfRLqSF)
   - Matthieu Bou, Nyal Patel, Arjun Jagota, Satyapriya Krishna, Sonali Parbhoo
   - Keyword: RLHF, Preference, Alignment, Safety, LLM
