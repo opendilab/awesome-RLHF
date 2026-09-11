@@ -84,6 +84,11 @@ format:
 ```
 ### 2026
 
+- [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094)
+  - Shubham Gandhi, Saurabh Goyal, Kiran Kate, Yara Rizk
+  - Keyword: Agentic RL, Rubric Reward, LLM-as-a-Judge, Credit Assignment, GRPO, Long-Horizon Agents
+  - Code: [Official](https://github.com/IBM/draco)
+
 - [Why DPO is a Misspecified Estimator and How to Fix It](https://openreview.net/pdf?id=btEiAfnLsX)
   - Aditya Gopalan, Sayak Ray Chowdhury, Debangshu Banerjee
   - Keyword: DPO, RLHF, Preference, Alignment, LLM
