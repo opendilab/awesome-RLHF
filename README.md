@@ -84,6 +84,10 @@ format:
 ```
 ### 2026
 
+- [TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models](https://arxiv.org/abs/2509.23140)
+  - Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan
+  - Keyword: Personalization, Preference Reward Modeling, Process Supervision, SFT, Reinforcement Learning
+
 - [Why DPO is a Misspecified Estimator and How to Fix It](https://openreview.net/pdf?id=btEiAfnLsX)
   - Aditya Gopalan, Sayak Ray Chowdhury, Debangshu Banerjee
   - Keyword: DPO, RLHF, Preference, Alignment, LLM
