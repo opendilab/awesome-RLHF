@@ -84,6 +84,11 @@ format:
 ```
 ### 2026
 
+- [iADD: Improving Alignment and Diversity in Diffusion Policy Optimization](https://arxiv.org/abs/2610.01789)
+  - Ashok Prasad Neupane, Saugat Adhikari, Pramish Paudel, Ajad Chhatkuli, Danda Pani Paudel
+  - Keyword: Diffusion Models, Text-to-Image, Reinforcement Learning, Alignment, Diversity
+  - Code: [official](https://github.com/Saugat2002/iadd)
+
 - [Why DPO is a Misspecified Estimator and How to Fix It](https://openreview.net/pdf?id=btEiAfnLsX)
   - Aditya Gopalan, Sayak Ray Chowdhury, Debangshu Banerjee
   - Keyword: DPO, RLHF, Preference, Alignment, LLM
