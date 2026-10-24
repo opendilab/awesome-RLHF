@@ -539,6 +539,11 @@ format:
 - [Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling](https://openreview.net/forum?id=DfhMMHXDuu)
   - Zhibin Duan, Guowei Rong, Zhuo Li, Bo Chen, Mingyuan Zhou, Dandan Guo
   - Keyword: Reward Model, Preference, LLM, Optimization, Reinforcement Learning
+
+- [SP^2DPO: An LLM-assisted Semantic Per-Pair DPO Generalization](https://arxiv.org/abs/2601.22385)
+  - Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, Chunyan Miao
+  - Keyword: DPO, RLHF, Preference, Alignment, LLM
+
 ### 2025
 
 - [Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma](https://arxiv.org/abs/2511.19504)
