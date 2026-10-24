@@ -84,6 +84,11 @@ format:
 ```
 ### 2026
 
+- [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://aclanthology.org/2026.acl-long.161/)
+  - Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun
+  - Keyword: DPO, Preference Data, Long-Context, Multi-armed Bandit, LLM
+  - Code: [Official](https://github.com/NEUIR/LongMab-PO)
+
 - [Why DPO is a Misspecified Estimator and How to Fix It](https://openreview.net/pdf?id=btEiAfnLsX)
   - Aditya Gopalan, Sayak Ray Chowdhury, Debangshu Banerjee
   - Keyword: DPO, RLHF, Preference, Alignment, LLM
