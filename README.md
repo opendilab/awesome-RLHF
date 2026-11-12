@@ -996,6 +996,9 @@ format:
   - Anthropic
   - Keyword: Improve moral self-correction capability by increasing RLHF training
   - Dataset; [BBQ](https://github.com/nyu-mll/BBQ)
+- [Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition](https://arxiv.org/abs/2303.13512)
+  - Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff, Brandon Houghton, Sharada Mohanty, et al.
+  - Keyword: Learning from human feedback and demonstrations, Fuzzy tasks, Human evaluation of agents, Minecraft
 
 ### 2022
 
@@ -1080,6 +1083,10 @@ format:
   - Kimin Lee, Laura Smith, Anca Dragan, Pieter Abbeel
   - Keyword: Benchmark, Preference-based RL, Simulated Human Feedback, Robustness Evaluation
   - Code: [official](https://github.com/rll-research/BPref)
+- [The MineRL BASALT Competition on Learning from Human Feedback](https://arxiv.org/abs/2107.01969) (BASALT)
+  - Rohin Shah, Cody Wild, Steven H. Wang, Neel Alex, Brandon Houghton, William Guss, Sharada Mohanty, Anssi Kanervisto, Stephanie Milani, Nicholay Topin, Pieter Abbeel, Stuart Russell, Anca Dragan
+  - Keyword: Benchmark for learning from human feedback, Tasks without reward functions, Human evaluation, Minecraft
+  - Code: [official](https://github.com/minerllabs/minerl)
 
 ### 2020 and before
 
@@ -1251,6 +1258,10 @@ format:
   - Meta AI
   - Keyword: without any RLHF, few carefully curated prompts and responses
   - Task: Dataset used for training the LIMA model
+- [BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset](https://arxiv.org/abs/2312.02405) [[code](https://github.com/minerllabs/basalt-benchmark)]
+  - Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff, Brandon Houghton, Rohin Shah
+  - Keyword: Human feedback / pairwise human judgments of agent behavior, Human demonstrations, Minecraft, Fuzzy tasks without reward functions
+  - Task: Training and benchmarking agents that learn from human feedback on the MineRL BASALT tasks (NeurIPS 2023 Datasets & Benchmarks)
 
 
 
